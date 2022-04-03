@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "",
-  "showTags": false,
+  "search": "tag:#AzureStorageServices",
+  "showTags": true,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -13,6 +13,13 @@
         "a": 1,
         "rgb": 14048348
       }
+    },
+    {
+      "query": "tag:#Azure",
+      "color": {
+        "a": 1,
+        "rgb": 2476322
+      }
     }
   ],
   "collapse-display": false,
@@ -20,11 +27,11 @@
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": true,
+  "collapse-forces": false,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 1.053497996702611,
+  "scale": 0.8259979294624724,
   "close": false
 }
