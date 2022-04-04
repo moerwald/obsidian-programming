@@ -1,7 +1,7 @@
 {
   "collapse-filter": false,
-  "search": "tag:#AzureStorageServices",
-  "showTags": true,
+  "search": "tag:#Azure",
+  "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
@@ -12,13 +12,6 @@
       "color": {
         "a": 1,
         "rgb": 14048348
-      }
-    },
-    {
-      "query": "tag:#Azure",
-      "color": {
-        "a": 1,
-        "rgb": 2476322
       }
     }
   ],
@@ -32,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.8259979294624724,
+  "scale": 0.7539775684427396,
   "close": false
 }

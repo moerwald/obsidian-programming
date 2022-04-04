@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Cloud/Azure/Storage Services/Azure Storage Account.md",
+            "file": "IT/Cloud/Azure/IOT Services/Azure IOT Central.md",
             "mode": "source",
             "source": false
           }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Cloud/Azure/Storage Services/Azure Storage Account.md",
+                "file": "IT/Cloud/Azure/IOT Services/Azure IOT Central.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "0070d9c4481ab563",
   "lastOpenFiles": [
+    "IT/Cloud/Azure/IOT Services/Azure IOT Central.md",
+    "IT/Cloud/Azure/IOT Services/Azure Sphere.md",
+    "IT/Cloud/Azure/IOT Services/Azure IOT Services.md",
+    "IT/Cloud/Azure/IOT Services/Azure IOT Hub.md",
+    "IT/Cloud/Azure/Storage Services/Azure File Storage.md",
     "IT/Cloud/Azure/Storage Services/Azure Storage Account.md",
-    "IT/Cloud/Azure/Storage Services/Azure Disk Storage.md",
     "IT/Cloud/Azure/Storage Services/Azure Blob Storage.md",
-    "IT/Cloud/Azure/Storage Services/Azure Files.md",
+    "IT/Cloud/Azure/Storage Services/Azure Disk Storage.md",
     "IT/Cloud/Azure/Azure.md",
-    "IT/Cloud/Azure/Compute Services/Compute Services.md",
-    "IT/Cloud/Azure/Compute Services/Azure Containers.md",
-    "IT/Cloud/Azure/Compute Services/Virtual Machines.md",
-    "IT/Cloud/Azure/Compute Services/Azure Virtual Desktop/When to use Azure Virtual Desktop.md",
-    "IT/Cloud/Azure/Compute Services/Azure Virtual Desktop/Azure Virtual Desktop.md"
+    "IT/Cloud/Azure/Compute Services/Compute Services.md"
   ]
 }

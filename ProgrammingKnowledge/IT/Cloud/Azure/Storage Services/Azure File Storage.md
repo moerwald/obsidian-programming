@@ -1,4 +1,4 @@
-# Azure Files
+# Azure File Storage
 [Referenz](https://docs.microsoft.com/en-us/learn/modules/azure-storage-fundamentals/azure-file-storage) 
 
 ## Allgemein
@@ -11,3 +11,9 @@ OnPrem FileShares können leicht in die Cloud gemovt werden, sofern aus App-Sich
 FileShares können geo-redundant verwendet werden. Azure FileShare verschlüsselt die Daten im DataCenter, SMB kümmert sich um die Verschlüsselung beim Transport.
 
 ![Diagram that shows the file sharing capabilities of Azure Files between a Western US Azure file share and a European Azure file share, each with their own SMB users.](https://docs.microsoft.com/en-us/learn/azure-fundamentals/azure-storage-fundamentals/media/azure-files-5f942c3e.png) 
+
+
+
+#Azure
+#AzureStorageAccount 
+#AzureStorageServices 
