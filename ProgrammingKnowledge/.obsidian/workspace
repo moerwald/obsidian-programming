@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "IT/Cloud/Azure/IOT Services/Azure IOT Central.md",
+            "file": "IT/Cloud/Azure/AI Services/Azure AI Services.md",
             "mode": "source",
             "source": false
           }
@@ -41,7 +41,7 @@
               "type": "search",
               "state": {
                 "query": "",
-                "matchingCase": false,
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Cloud/Azure/IOT Services/Azure IOT Central.md",
+                "file": "IT/Cloud/Azure/AI Services/Azure AI Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -89,15 +89,15 @@
   },
   "active": "0070d9c4481ab563",
   "lastOpenFiles": [
+    "IT/Cloud/Azure/AI Services/Azure AI Services.md",
+    "IT/Cloud/Azure/AI Services/Azure Bot Services.md",
+    "IT/Cloud/Azure/AI Services/Azure Machine Learning.md",
+    "IT/Cloud/Azure/AI Services/Azure Cognitive Serivces.md",
+    "IT/Cloud/Azure/Azure.md",
+    "IT/Databases/PostgreSql/Partitioning.md",
+    "Programming/CSharp/Powershell/Powershell from CSharp.md",
     "IT/Cloud/Azure/IOT Services/Azure IOT Central.md",
     "IT/Cloud/Azure/IOT Services/Azure Sphere.md",
-    "IT/Cloud/Azure/IOT Services/Azure IOT Services.md",
-    "IT/Cloud/Azure/IOT Services/Azure IOT Hub.md",
-    "IT/Cloud/Azure/Storage Services/Azure File Storage.md",
-    "IT/Cloud/Azure/Storage Services/Azure Storage Account.md",
-    "IT/Cloud/Azure/Storage Services/Azure Blob Storage.md",
-    "IT/Cloud/Azure/Storage Services/Azure Disk Storage.md",
-    "IT/Cloud/Azure/Azure.md",
-    "IT/Cloud/Azure/Compute Services/Compute Services.md"
+    "IT/Cloud/Azure/IOT Services/Azure IOT Services.md"
   ]
 }
