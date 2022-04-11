@@ -58,6 +58,13 @@ Records sollte als Dataobjects verwendet werden. Records haben gegenüber Klasse
 Für Records musste die CLR NICHT angepasst werden. Mithilfe von [Compiler Lowering](https://mattwarren.org/2017/05/25/Lowering-in-the-C-Compiler/), im Endeffekt generiert der Compiler C# Code, **bevor** dieser in IL-Code übersetzt wird. Um sich das Ganze anzusehen kann man obigen Code in [sharplab.io](https://sharplab.io/) verwenden und sich das Outcome ansehen.
 
 
+
+
+---
+Tags:
+
+[[CSharp]]
+
 #CSharp
 #Charp9
 #Charp10

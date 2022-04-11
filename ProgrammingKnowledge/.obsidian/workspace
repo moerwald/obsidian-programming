@@ -7,12 +7,8 @@
         "id": "7acbaad1f0fd00e8",
         "type": "leaf",
         "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Programming/CSharp/Language/Records/Records.md",
-            "mode": "preview",
-            "source": false
-          }
+          "type": "graph",
+          "state": {}
         }
       }
     ],
@@ -69,7 +65,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/CSharp/Language/Records/Records.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -90,14 +85,14 @@
   "active": "7acbaad1f0fd00e8",
   "lastOpenFiles": [
     "Programming/CSharp/Language/Records/Records.md",
+    "Programming/CSharp/Language/DataTypes/Reference type vs Value type.md",
+    "Programming/CSharp/Language/DataTypes/Struct.md",
+    "Programming/CSharp/Language/DataTypes/Value Type.md",
+    "Programming/CSharp/CSharp.md",
     "IT/Cloud/Azure/AI Services/Azure Machine Learning.md",
     "IT/Cloud/Azure/AI Services/Azure AI Services.md",
     "IT/Cloud/Azure/AI Services/Azure Bot Services.md",
     "IT/Cloud/Azure/AI Services/Azure Cognitive Serivces.md",
-    "IT/Cloud/Azure/Azure.md",
-    "IT/Databases/PostgreSql/Partitioning.md",
-    "Programming/CSharp/Powershell/Powershell from CSharp.md",
-    "IT/Cloud/Azure/IOT Services/Azure IOT Central.md",
-    "IT/Cloud/Azure/IOT Services/Azure Sphere.md"
+    "IT/Cloud/Azure/Azure.md"
   ]
 }
