@@ -7,8 +7,12 @@
         "id": "7acbaad1f0fd00e8",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "Programming/CSharp/Language/Records/Records.md",
+            "mode": "source",
+            "source": false
+          }
         }
       }
     ],
@@ -65,6 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Programming/CSharp/Language/Records/Records.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -85,14 +90,14 @@
   "active": "7acbaad1f0fd00e8",
   "lastOpenFiles": [
     "Programming/CSharp/Language/Records/Records.md",
-    "Programming/CSharp/Language/DataTypes/Reference type vs Value type.md",
-    "Programming/CSharp/Language/DataTypes/Struct.md",
-    "Programming/CSharp/Language/DataTypes/Value Type.md",
-    "Programming/CSharp/CSharp.md",
-    "IT/Cloud/Azure/AI Services/Azure Machine Learning.md",
-    "IT/Cloud/Azure/AI Services/Azure AI Services.md",
-    "IT/Cloud/Azure/AI Services/Azure Bot Services.md",
-    "IT/Cloud/Azure/AI Services/Azure Cognitive Serivces.md",
-    "IT/Cloud/Azure/Azure.md"
+    "Programming/CSharp/Tools/LinqPad/LinqPad.md",
+    "Programming/Web Developing/Resources to learn.md",
+    "Programming/Refactoring/Refactoring Websites.md",
+    "Programming/Refactoring/Lift Up Condition.md",
+    "IT/OS/Windows/Certificates/Certificate Stores.md",
+    "Programming/PowerShell/Snippets/Check if VM or not.md",
+    "Programming/Powershell.md",
+    "Programming/CSharp/PowerShell/Powershell from CSharp.md",
+    "IT/Databases/PostgreSql/pgSql/pgSql.md"
   ]
 }
