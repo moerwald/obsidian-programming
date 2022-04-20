@@ -6,4 +6,5 @@ get-wmiobject win32_computersystem | fl model
 ```
 
 
+#PowerShell
 #PowerShellSnippet
