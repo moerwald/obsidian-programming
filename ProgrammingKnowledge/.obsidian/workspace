@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/CSharp/NetCore/Net Generic Host.md",
+            "file": "Programming/CSharp/Problem Solutions/File Copy with Progress Bar.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#AzureCognitiveServices",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/CSharp/NetCore/Net Generic Host.md",
+                "file": "Programming/CSharp/Problem Solutions/File Copy with Progress Bar.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "719e491669cf69ca",
   "lastOpenFiles": [
+    "Programming/CSharp/Problem Solutions/File Copy with Progress Bar.md",
+    "Programming/CSharp/GUI/WPF/WPF.md",
+    "Programming/CSharp/Packages to know.md",
+    "Programming/JavaScript/Language/Objects_JS.md",
+    "Programming/JavaScript/Language/Scopes_JS.md",
+    "Programming/JavaScript/Language/Functions_JS.md",
+    "IT/Links/Limited.md",
     "Programming/CSharp/NetCore/Net Generic Host.md",
     "Programming/JavaScript/LearningResources/LearningResources_JS.md",
-    "Programming/Refactoring/Lift Up Condition.md",
-    "Programming/Web Developing/Resources to learn.md",
-    "Programming/JavaScript/Language/Functions_JS.md",
-    "Programming/JavaScript/Language/Scopes_JS.md",
-    "Programming/PowerShell/Snippets/Check if VM or not.md",
-    "IT/OS/Windows/Certificates/Certificate Stores.md",
-    "Programming/CSharp/Language/Records/Records.md",
-    "Programming/CSharp/CSharp.md"
+    "Programming/Refactoring/Lift Up Condition.md"
   ]
 }
