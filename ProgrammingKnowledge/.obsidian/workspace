@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Object Oriented Programming/Micro Objects.md",
+            "file": "Programming/CSharp/Tools/LinqPad/LinqPad.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "Remote De",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -53,7 +53,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 432
   },
   "right": {
     "id": "9173b503a4d3970d",
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Object Oriented Programming/Micro Objects.md",
+                "file": "Programming/CSharp/Tools/LinqPad/LinqPad.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "719e491669cf69ca",
   "lastOpenFiles": [
-    "Programming/Object Oriented Programming/Micro Objects.md",
-    "Programming/JavaScript/Language/new_Keyword_JS.md",
-    "Programming/JavaScript/Language/Pasted image 20220523072800.png",
-    "Programming/JavaScript/Language/Pasted image 20220523072723.png",
-    "Programming/JavaScript/Language/Pasted image 20220523072646.png",
-    "Programming/JavaScript/Language/module_JS.md",
-    "Programming/JavaScript/Language/closure_JS.md",
-    "Programming/JavaScript/Language/this_Keyword_JS.md",
-    "Programming/JavaScript/Language/four_rules_of_this_JS.png.png",
-    "Pasted image 20220523063034.png"
+    "Programming/CSharp/Tools/LinqPad/LinqPad.md",
+    "Programming/CSharp/Security/Impersonation/Impersonation.md",
+    "Programming/Design/Terminology/Walking skeleton.md",
+    "Troubleshooting/Möglichkeiten ein Problem zu lösen.md",
+    "Programming/CSharp/OpenSource/Testing/Specflow.md",
+    "Programming/CSharp/OpenSource/Testing/Pasted image 20220623105231.png",
+    "IT/Windows/Remote Desktop/Activate Remote Desktop.md",
+    "IT/Windows/Activate Re.md",
+    "Programming/Web Developing/Resources to learn.md",
+    "IT/Cloud/Azure/AI Services/Azure Machine Learning.md"
   ]
 }

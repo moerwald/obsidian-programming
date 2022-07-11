@@ -3,5 +3,7 @@
   "livePreview": true,
   "showLineNumber": true,
   "vimMode": true,
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "readableLineLength": false,
+  "promptDelete": false
 }
