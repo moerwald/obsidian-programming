@@ -9,8 +9,8 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Programming/Design/Terminology/Devil's Advocate.md",
-            "mode": "source",
+            "file": "Programming/Web Developing/CSS/Viewport.md",
+            "mode": "preview",
             "source": false
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Design/Terminology/Devil's Advocate.md",
+                "file": "Programming/Web Developing/CSS/Viewport.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,15 +100,15 @@
   },
   "active": "719e491669cf69ca",
   "lastOpenFiles": [
+    "Programming/Web Developing/CSS/Canvas.md",
+    "Programming/Web Developing/CSS/Viewport.md",
+    "Programming/Design/Terminology/Devil's Advocate.md",
     "Programming/Design/Terminology/Walking skeleton.md",
     "Programming/CSharp/MSBuild/Runtime IDs.md",
     "Programming/CSharp/MSTest/MSTest Parameterized Tests.md",
     "Programming/CSharp/Website to know.md",
     "Programming/CSharp/Packages to know.md",
     "Programming/CSharp/CSharp.md",
-    "Programming/CSharp/Tools/LinqPad/LinqPad.md",
-    "Programming/CSharp/Security/Impersonation/Impersonation.md",
-    "Troubleshooting/Möglichkeiten ein Problem zu lösen.md",
-    "Programming/CSharp/OpenSource/Testing/Specflow.md"
+    "Programming/CSharp/Tools/LinqPad/LinqPad.md"
   ]
 }
