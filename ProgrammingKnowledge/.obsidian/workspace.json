@@ -4,16 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "719e491669cf69ca",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Bewerbung_ENIO/Besprechung_14_10_2022.md",
-            "mode": "source",
-            "source": false
+        "id": "247862708206086d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "719e491669cf69ca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Bewerbung_ENIO/Besprechung_14_10_2022.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0cdffde3d67da56d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/CSharp/CSharp.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "64fda3b9349fe581",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Refactoring/What is Refactoring.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
-        }
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -31,7 +62,9 @@
             "type": "leaf",
             "state": {
               "type": "file-explorer",
-              "state": {}
+              "state": {
+                "sortOrder": "alphabetical"
+              }
             }
           },
           {
@@ -53,8 +86,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 432,
-    "collapsed": true
+    "width": 432
   },
   "right": {
     "id": "9173b503a4d3970d",
@@ -70,7 +102,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Bewerbung_ENIO/Besprechung_14_10_2022.md",
+                "file": "Programming/Refactoring/What is Refactoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -96,11 +128,15 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "719e491669cf69ca",
+  "ribbon": {
+    "mostRecentAction": ""
+  },
+  "active": "64fda3b9349fe581",
   "lastOpenFiles": [
+    "Programming/CSharp/CSharp.md",
+    "Programming/CSharp/OpenSource/MediatR.md",
     "Programming/Web Developing/CSS/Collapsing Margins.md",
     "Programming/Web Developing/CSS/Viewport.md",
     "Programming/Web Developing/CSS/Canvas.md",
@@ -108,8 +144,6 @@
     "Programming/Design/Terminology/Walking skeleton.md",
     "Programming/CSharp/MSBuild/Runtime IDs.md",
     "Programming/CSharp/MSTest/MSTest Parameterized Tests.md",
-    "Programming/CSharp/Website to know.md",
-    "Programming/CSharp/Packages to know.md",
-    "Programming/CSharp/CSharp.md"
+    "Programming/CSharp/Website to know.md"
   ]
 }
