@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProgrammingKnowledge/IT/Cloud/Azure/IOT Services/Azure Sphere.md",
+                "file": "ProgrammingKnowledge/IT/Cloud/Azure/IOT Services/Azure IOT Services.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProgrammingKnowledge/IT/Cloud/Azure/IOT Services/Azure Sphere.md",
+                "file": "ProgrammingKnowledge/IT/Cloud/Azure/IOT Services/Azure IOT Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProgrammingKnowledge/IT/Cloud/Azure/IOT Services/Azure Sphere.md",
+                "file": "ProgrammingKnowledge/IT/Cloud/Azure/IOT Services/Azure IOT Services.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProgrammingKnowledge/IT/Cloud/Azure/IOT Services/Azure Sphere.md"
+                "file": "ProgrammingKnowledge/IT/Cloud/Azure/IOT Services/Azure IOT Services.md"
               }
             }
           },
@@ -194,6 +194,7 @@
   },
   "active": "2dd3cacb124f3136",
   "lastOpenFiles": [
+    "ProgrammingKnowledge/IT/Cloud/Azure/IOT Services/Azure Sphere.md",
     "ProgrammingKnowledge/IT/Cloud/Azure/IOT Services/Azure IOT Services.md",
     "ProgrammingKnowledge/IT/Cloud/Azure/IOT Services/Azure IOT Hub.md",
     "ProgrammingKnowledge/IT/Cloud/Azure/IOT Services/Azure IOT Central.md",
@@ -202,7 +203,6 @@
     "ProgrammingKnowledge/IT/Windows/Activate Re.md",
     "ProgrammingKnowledge/IT/Windows/Remote Desktop/Activate Remote Desktop.md",
     "ProgrammingKnowledge/IT/Links/Limited.md",
-    "ProgrammingKnowledge/IT/Databases/PostgreSql/Partitioning.md",
-    "ProgrammingKnowledge/IT/Databases/PostgreSql/pgSql/pgSql.md"
+    "ProgrammingKnowledge/IT/Databases/PostgreSql/Partitioning.md"
   ]
 }
