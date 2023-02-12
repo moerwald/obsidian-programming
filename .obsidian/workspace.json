@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Languages/CSharp/OpenSource/Testing/Specflow.md",
+                "file": "ProgrammingKnowledge/Programming/Languages/CSharp/Libraries/MediatR.md",
                 "mode": "source",
                 "source": false
               }
@@ -123,7 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Languages/CSharp/OpenSource/Testing/Specflow.md",
+                "file": "ProgrammingKnowledge/Programming/Languages/CSharp/Libraries/MediatR.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Languages/CSharp/OpenSource/Testing/Specflow.md",
+                "file": "ProgrammingKnowledge/Programming/Languages/CSharp/Libraries/MediatR.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +163,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Languages/CSharp/OpenSource/Testing/Specflow.md"
+                "file": "ProgrammingKnowledge/Programming/Languages/CSharp/Libraries/MediatR.md"
               }
             }
           },
@@ -192,8 +192,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2dd3cacb124f3136",
+  "active": "8c52df5aa08da735",
   "lastOpenFiles": [
+    "ProgrammingKnowledge/Programming/Languages/CSharp/OpenSource/Testing/Specflow.md",
     "ProgrammingKnowledge/Programming/Languages/CSharp/Website to know.md",
     "ProgrammingKnowledge/Programming/Languages/CSharp/Nuget Packages to know.md",
     "ProgrammingKnowledge/Programming/Concepts/Object Oriented Programming/Micro Objects.md",
@@ -202,7 +203,6 @@
     "ProgrammingKnowledge/Programming/Concepts/Testing/Property Based Testing.md",
     "ProgrammingKnowledge/Programming/Languages/CSharp/CSharp.md",
     "ProgrammingKnowledge/Programming/Languages/CSharp/MSTest/MSTest Parameterized Tests.md",
-    "ProgrammingKnowledge/Programming/Languages/CSharp/MSBuild/Runtime IDs.md",
-    "ProgrammingKnowledge/Programming/Languages/CSharp/Language/Records/Records.md"
+    "ProgrammingKnowledge/Programming/Languages/CSharp/MSBuild/Runtime IDs.md"
   ]
 }
