@@ -1,5 +1,3 @@
-# Azure Sphere
-
 Azure Sphere ist ein Plattform die End-To-End Security zwischen Azure und IOT Devices bietet. Hierfür werden spezielle Azure Micro-Controller-Units verwendet auf denen ein Custom Microsoft Linux läuft. 
 
 Azure Sphere besteht aus drei Teilen:

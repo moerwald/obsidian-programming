@@ -1,4 +1,3 @@
-# Partitioning
 
 [Referenz](https://www.postgresql.org/docs/current/ddl-partitioning.html)
 
@@ -24,3 +23,6 @@ Ganz einfach: Man deklariert, dass ein Table, basierend auf einer/mehrerer Spalt
 Ändert man in einer Row den Partition-Key moved die DB die Row in eine andere Partition. Auf Partition-Tables könnte man nochmals partitionieren, dass wäre dann ein `Sub-Partitioning`. 
 
 Partition-Tables können eigene `Indexe` haben.
+
+#SQL
+#Database

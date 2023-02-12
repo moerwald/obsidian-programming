@@ -1,5 +1,3 @@
-# Azure IOT Services
-
 Azure IOT Services besteht aus drei Services:
 - [[Azure IOT Hub]]
 - [[Azure IOT Central]]
