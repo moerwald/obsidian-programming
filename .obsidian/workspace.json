@@ -1,0 +1,208 @@
+{
+  "main": {
+    "id": "6a169d746bd7a38c",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3aee03b3d086d7f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2fb5dd0f4074dac9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ProgrammingKnowledge/Programming/Languages/CSharp/Nuget Packages to know.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dfe39ad7fc5765fb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ProgrammingKnowledge/Programming/Concepts/Testing/Property Based Testing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2dd3cacb124f3136",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ProgrammingKnowledge/Programming/Languages/CSharp/OpenSource/Testing/Specflow.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7b31ef615dcf399d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ProgrammingKnowledge/Programming/Languages/CSharp/Libraries/LanguageExt.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "21822312f3631e22",
+    "type": "split",
+    "children": [
+      {
+        "id": "5631c5b02caa7c45",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8c52df5aa08da735",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "af14a800e820c0f9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "17624902616b7647",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "53950853587d6193",
+    "type": "split",
+    "children": [
+      {
+        "id": "a84ebb2c84fd7649",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2a80269c3a8d106",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ProgrammingKnowledge/Programming/Languages/CSharp/OpenSource/Testing/Specflow.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ada380909c406c81",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ProgrammingKnowledge/Programming/Languages/CSharp/OpenSource/Testing/Specflow.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "36ac126edeb00386",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ed88d3f20468a4b9",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ProgrammingKnowledge/Programming/Languages/CSharp/OpenSource/Testing/Specflow.md"
+              }
+            }
+          },
+          {
+            "id": "d6db890e57d41d34",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2dd3cacb124f3136",
+  "lastOpenFiles": [
+    "ProgrammingKnowledge/Programming/Languages/CSharp/Website to know.md",
+    "ProgrammingKnowledge/Programming/Languages/CSharp/Nuget Packages to know.md",
+    "ProgrammingKnowledge/Programming/Concepts/Object Oriented Programming/Micro Objects.md",
+    "ProgrammingKnowledge/Programming/Languages/CSharp/Libraries/FSCheck.md",
+    "ProgrammingKnowledge/Programming/Languages/CSharp/Libraries/Bogus.md",
+    "ProgrammingKnowledge/Programming/Concepts/Testing/Property Based Testing.md",
+    "ProgrammingKnowledge/Programming/Languages/CSharp/CSharp.md",
+    "ProgrammingKnowledge/Programming/Languages/CSharp/MSTest/MSTest Parameterized Tests.md",
+    "ProgrammingKnowledge/Programming/Languages/CSharp/MSBuild/Runtime IDs.md",
+    "ProgrammingKnowledge/Programming/Languages/CSharp/Language/Records/Records.md"
+  ]
+}

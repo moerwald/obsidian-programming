@@ -1,0 +1,2 @@
+
+FSCheck ist eine Library die in [[FSharp]] geschrieben ist. Da [[FSharp]] auf dem [[DotNet]]-Framwork basiert ist eine Einbindung in [[CSharp]] problemlos möglich. [[FSCheck]] ermöglicht [[Property Based Testing]].

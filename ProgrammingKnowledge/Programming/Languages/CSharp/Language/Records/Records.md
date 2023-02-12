@@ -142,8 +142,6 @@ Wie man sieht enthält `Equals` einen Typvergleich `EqualityContract == other.Eq
 ---
 Tags:
 
-[[CSharp]]
-
 #CSharp
 #Charp9
 #Charp10
