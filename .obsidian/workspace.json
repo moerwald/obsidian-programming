@@ -35,8 +35,12 @@
             "id": "2dd3cacb124f3136",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "ProgrammingKnowledge/Troubleshooting/Möglichkeiten ein Problem zu lösen.md",
+                "mode": "source",
+                "source": false
+              }
             }
           },
           {
@@ -119,6 +123,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "ProgrammingKnowledge/Troubleshooting/Möglichkeiten ein Problem zu lösen.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -135,6 +140,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "ProgrammingKnowledge/Troubleshooting/Möglichkeiten ein Problem zu lösen.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +162,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "ProgrammingKnowledge/Troubleshooting/Möglichkeiten ein Problem zu lösen.md"
+              }
             }
           },
           {
@@ -184,8 +192,9 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c52df5aa08da735",
+  "active": "2dd3cacb124f3136",
   "lastOpenFiles": [
+    "2023-W06.md",
     "ProgrammingKnowledge/Programming/Concepts/Design/Terminology/Walking skeleton.md",
     "ProgrammingKnowledge/Programming/Concepts/Design/Terminology/Devil's Advocate.md",
     "ProgrammingKnowledge/Programming/Languages/CSharp/Libraries/MediatR.md",
@@ -194,7 +203,6 @@
     "ProgrammingKnowledge/Programming/Languages/CSharp/Nuget Packages to know.md",
     "ProgrammingKnowledge/Programming/Concepts/Object Oriented Programming/Micro Objects.md",
     "ProgrammingKnowledge/Programming/Languages/CSharp/Libraries/FSCheck.md",
-    "ProgrammingKnowledge/Programming/Languages/CSharp/Libraries/Bogus.md",
-    "ProgrammingKnowledge/Programming/Concepts/Testing/Property Based Testing.md"
+    "ProgrammingKnowledge/Programming/Languages/CSharp/Libraries/Bogus.md"
   ]
 }
