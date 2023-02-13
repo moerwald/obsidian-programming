@@ -1,4 +1,3 @@
-# Azure Cognitive Serivces
 
 Bietet versch. **bereits trainierte** Algorithmen, um beispielsweise:
 

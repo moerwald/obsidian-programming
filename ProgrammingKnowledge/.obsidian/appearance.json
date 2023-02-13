@@ -1,6 +1,7 @@
 {
   "baseFontSize": 16,
-  "theme": "moonstone",
-  "cssTheme": "Solarized",
-  "accentColor": ""
+  "theme": "obsidian",
+  "cssTheme": "",
+  "accentColor": "",
+  "nativeMenus": true
 }
