@@ -5,6 +5,11 @@ type: knowledge
 
 Zeitweise hat man APIs die kein `CancelationToken` entgegen nehmen. Um die APIs doch canceln zu können kann man folgende Extension-Methods auf `Task` definieren.
 
+> [!Warning]
+> Achtung: Der zuvor gestartete Task wird dabei **NICHT** abgebrochen!
+
+
+
 ```CSharp
 
         public static async Task<bool> HasTimedOutAfterAsync(this Task task, TimeSpan timeout)
@@ -70,3 +75,4 @@ Zeitweise hat man APIs die kein `CancelationToken` entgegen nehmen. Um die APIs 
 #Cancel
 #CSharp 
 #DotNet
+#Helper

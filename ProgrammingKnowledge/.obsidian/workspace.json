@@ -18,8 +18,41 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "95e503a62d424434",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Concepts/Design/Event Sourcing.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "01ac6d43e6843ee1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Languages/CSharp/UsefulExtension_Helpers_Patterns/Make Task canceable.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "34dacd70af47b3de",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -48,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Remote De",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +94,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 439.5
   },
   "right": {
     "id": "9173b503a4d3970d",
@@ -77,7 +110,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Languages/CSharp/UsefulExtension_Helpers_Patterns/Make Task canceable.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,9 +136,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming/Languages/CSharp/UsefulExtension_Helpers_Patterns/Make Task canceable.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -125,17 +155,17 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "64fda3b9349fe581",
+  "active": "34dacd70af47b3de",
   "lastOpenFiles": [
-    "IT/Cloud/Azure/AI Services/Azure Cognitive Serivces.md",
+    "Programming/Languages/CSharp/UsefulExtension_Helpers_Patterns/AsyncLock.md",
     "Programming/Languages/CSharp/UsefulExtension_Helpers_Patterns/Make Task canceable.md",
+    "Programming/Languages/CSharp/Warnings/Message template should be compile time constant.md",
+    "Programming/Concepts/Design/Event Sourcing.md",
+    "IT/Cloud/Azure/AI Services/Azure Cognitive Serivces.md",
     "Programming/CSharp/CSharp.md",
     "Programming/CSharp/OpenSource/MediatR.md",
     "Programming/Web Developing/CSS/Collapsing Margins.md",
     "Programming/Web Developing/CSS/Viewport.md",
-    "Programming/Web Developing/CSS/Canvas.md",
-    "Programming/Design/Terminology/Devil's Advocate.md",
-    "Programming/Design/Terminology/Walking skeleton.md",
-    "Programming/CSharp/MSBuild/Runtime IDs.md"
+    "Programming/Web Developing/CSS/Canvas.md"
   ]
 }
