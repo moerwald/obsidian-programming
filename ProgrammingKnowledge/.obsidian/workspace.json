@@ -49,7 +49,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Languages/CSharp/Libraries/EFCore/Entities.md",
+                "file": "Programming/Languages/CSharp/Libraries/LanguageExt/LanguageExt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7c4c573532925221",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Languages/CSharp/Libraries/LanguageExt/Validation.md",
                 "mode": "source",
                 "source": false
               }
@@ -108,7 +120,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -166,7 +178,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Languages/CSharp/Libraries/EFCore/Entities.md",
+                "file": "Programming/Languages/CSharp/Libraries/LanguageExt/Validation.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -194,7 +206,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Languages/CSharp/Libraries/EFCore/Entities.md"
+                "file": "Programming/Languages/CSharp/Libraries/LanguageExt/Validation.md"
               }
             }
           }
@@ -215,17 +227,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "8801276fdd510e0b",
+  "active": "7c4c573532925221",
   "lastOpenFiles": [
+    "Programming/Languages/CSharp/Libraries/LanguageExt/LanguageExt.md",
+    "Programming/Concepts/Design/Event Sourcing.md",
+    "Programming/Languages/CSharp/Libraries/EFCore/Entities.md",
     "Programming/Languages/CSharp/Libraries/EFCore/Use SqlLite/SQLLite with EFCore.md",
     "Programming/Languages/CSharp/Tools/LinqPad/Connect To Databases/Connect Linqpad to SQLLite.md",
     "Programming/Languages/CSharp/Tools/LinqPad/Connect To Databases/ConnecToSQLLiteViaLinqPad_2.png",
     "Programming/Languages/CSharp/Tools/LinqPad/Connect To Databases/ConnecToSQLLiteViaLinqPad_1.png",
     "Programming/Languages/CSharp/Tools/LinqPad/LinqPad.md",
     "Programming/Languages/CSharp/UsefulExtension_Helpers_Patterns/Make Task canceable.md",
-    "Untitled.md",
-    "Programming/Languages/CSharp/Language/Task/TaskCompletationSource.md",
-    "Programming/Languages/CSharp/Language/Task/TaskCompletionSource.md",
-    "Programming/Languages/CSharp/UsefulExtension_Helpers_Patterns/AsyncLock.md"
+    "Untitled.md"
   ]
 }
