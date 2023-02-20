@@ -44,6 +44,18 @@
             }
           },
           {
+            "id": "8801276fdd510e0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Languages/CSharp/Libraries/EFCore/Entities.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
             "id": "95e503a62d424434",
             "type": "leaf",
             "state": {
@@ -96,7 +108,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -154,7 +166,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Languages/CSharp/Libraries/EFCore/Use SqlLite/SQLLite with EFCore.md",
+                "file": "Programming/Languages/CSharp/Libraries/EFCore/Entities.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +194,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Languages/CSharp/Libraries/EFCore/Use SqlLite/SQLLite with EFCore.md"
+                "file": "Programming/Languages/CSharp/Libraries/EFCore/Entities.md"
               }
             }
           }
@@ -203,8 +215,9 @@
       "templates:Insert template": false
     }
   },
-  "active": "90596888a97113bd",
+  "active": "8801276fdd510e0b",
   "lastOpenFiles": [
+    "Programming/Languages/CSharp/Libraries/EFCore/Use SqlLite/SQLLite with EFCore.md",
     "Programming/Languages/CSharp/Tools/LinqPad/Connect To Databases/Connect Linqpad to SQLLite.md",
     "Programming/Languages/CSharp/Tools/LinqPad/Connect To Databases/ConnecToSQLLiteViaLinqPad_2.png",
     "Programming/Languages/CSharp/Tools/LinqPad/Connect To Databases/ConnecToSQLLiteViaLinqPad_1.png",
@@ -213,7 +226,6 @@
     "Untitled.md",
     "Programming/Languages/CSharp/Language/Task/TaskCompletationSource.md",
     "Programming/Languages/CSharp/Language/Task/TaskCompletionSource.md",
-    "Programming/Languages/CSharp/UsefulExtension_Helpers_Patterns/AsyncLock.md",
-    "Programming/Languages/CSharp/Warnings/Message template should be compile time constant.md"
+    "Programming/Languages/CSharp/UsefulExtension_Helpers_Patterns/AsyncLock.md"
   ]
 }
