@@ -61,7 +61,43 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "Programming/Languages/CSharp/Libraries/LanguageExt/LanguageExt.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "642f0e1467a267dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "Programming/Languages/CSharp/Libraries/LanguageExt/Validation.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "76262de926c7943f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Languages/Protobuf/Proto Files.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d74a6a8df83cd11e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "IT/Security/OAuth 2.0.md",
                 "mode": "source",
                 "source": false
               }
@@ -120,7 +156,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 7
       }
     ],
     "direction": "vertical"
@@ -149,7 +185,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "validation",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -162,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 439.5
+    "width": 439.5,
+    "collapsed": true
   },
   "right": {
     "id": "9173b503a4d3970d",
@@ -178,7 +215,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Languages/CSharp/Libraries/LanguageExt/Validation.md",
+                "file": "IT/Security/OAuth 2.0.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -206,7 +243,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Languages/CSharp/Libraries/LanguageExt/Validation.md"
+                "file": "IT/Security/OAuth 2.0.md"
               }
             }
           }
@@ -227,9 +264,21 @@
       "templates:Insert template": false
     }
   },
-  "active": "7c4c573532925221",
+  "active": "d74a6a8df83cd11e",
   "lastOpenFiles": [
+    "Pasted image 20230307084520.png",
+    "Pasted image 20230307084422.png",
+    "Pasted image 20230307084155.png",
+    "Pasted image 20230306161211.png",
+    "Pasted image 20230306161031.png",
+    "Pasted image 20230306160556.png",
+    "Programming/Languages/Protobuf/Proto Files.md",
+    "IT/Security/OAuth 2.0.md",
+    "IT/Security",
+    "Programming/Languages/CSharp/Libraries/LanguageExt/Validation.md",
+    "Programming/Languages/Protobuf",
     "Programming/Languages/CSharp/Libraries/LanguageExt/LanguageExt.md",
+    "Programming/Languages/CSharp/Libraries/FluentValidation.md",
     "Programming/Concepts/Design/Event Sourcing.md",
     "Programming/Languages/CSharp/Libraries/EFCore/Entities.md",
     "Programming/Languages/CSharp/Libraries/EFCore/Use SqlLite/SQLLite with EFCore.md",
