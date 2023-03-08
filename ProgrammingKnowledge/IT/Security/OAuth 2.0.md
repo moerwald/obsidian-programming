@@ -39,5 +39,17 @@ Client View.
 
 User view.
 
+----
+
+
+From [youtube](https://www.youtube.com/watch?v=sSy5-3IkXHE)
+
+> [!tip] Ich autorisiere einen Client, dass er auf meine Resourcen (Kontakte) zugreifen darf!
+
+
+
+
+![[Pasted image 20230307090354.png]]
+
 
 #OAuth2_0
