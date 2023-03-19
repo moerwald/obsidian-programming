@@ -119,7 +119,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Languages/CSharp/CallerArgumentExpression.md",
+                "file": "Programming/Languages/CSharp/Libraries/MediatR.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "939a6d3a25ad311b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Languages/CSharp/Libraries/Scrutor.md",
                 "mode": "source",
                 "source": false
               }
@@ -178,7 +190,7 @@
             }
           }
         ],
-        "currentTab": 9
+        "currentTab": 10
       }
     ],
     "direction": "vertical"
@@ -236,7 +248,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Languages/CSharp/CallerArgumentExpression.md",
+                "file": "Programming/Languages/CSharp/Libraries/Scrutor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -264,7 +276,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Languages/CSharp/CallerArgumentExpression.md"
+                "file": "Programming/Languages/CSharp/Libraries/Scrutor.md"
               }
             }
           }
@@ -285,10 +297,15 @@
       "templates:Insert template": false
     }
   },
-  "active": "defea67af33f5775",
+  "active": "939a6d3a25ad311b",
   "lastOpenFiles": [
-    "IT/Security/Pasted image 20230307090806.png",
+    "Programming/Languages/CSharp/Libraries/MediatR.md",
+    "Programming/Languages/CSharp/Libraries/Scrutor.md",
+    "Programming/Languages/CSharp/Libraries/FSCheck.md",
+    "Programming/Languages/CSharp/Libraries/FluentValidation.md",
+    "Programming/Languages/CSharp/Libraries/Bogus.md",
     "Programming/Languages/CSharp/CallerArgumentExpression.md",
+    "IT/Security/Pasted image 20230307090806.png",
     "IT/Security/Pasted image 20230307090354.png",
     "IT/Security/Pasted image 20230307084520.png",
     "IT/Security/Pasted image 20230307084422.png",
@@ -303,7 +320,6 @@
     "Programming/Languages/CSharp/Libraries/LanguageExt/Validation.md",
     "Programming/Languages/Protobuf",
     "Programming/Languages/CSharp/Libraries/LanguageExt/LanguageExt.md",
-    "Programming/Languages/CSharp/Libraries/FluentValidation.md",
     "Programming/Concepts/Design/Event Sourcing.md",
     "Programming/Languages/CSharp/Libraries/EFCore/Entities.md",
     "Programming/Languages/CSharp/Libraries/EFCore/Use SqlLite/SQLLite with EFCore.md",
