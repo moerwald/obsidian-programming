@@ -4,193 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "247862708206086d",
+        "id": "1f65392dd327013c",
         "type": "tabs",
         "children": [
           {
-            "id": "64fda3b9349fe581",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Languages/CSharp/Tools/LinqPad/LinqPad.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "65c8863a8d9a2b9a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Languages/CSharp/Tools/LinqPad/Connect To Databases/Connect Linqpad to SQLLite.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "90596888a97113bd",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Languages/CSharp/Libraries/EFCore/Use SqlLite/SQLLite with EFCore.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8801276fdd510e0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Languages/CSharp/Libraries/LanguageExt/LanguageExt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "7c4c573532925221",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Languages/CSharp/Libraries/LanguageExt/LanguageExt.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "642f0e1467a267dc",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Languages/CSharp/Libraries/LanguageExt/Validation.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "76262de926c7943f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Languages/Protobuf/Proto Files.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d74a6a8df83cd11e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IT/Security/OAuth 2.0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "dc4605e89429e7dd",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "IT/Security/Pasted image 20230307090806.png"
-              }
-            }
-          },
-          {
-            "id": "defea67af33f5775",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Languages/CSharp/Libraries/MediatR.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "939a6d3a25ad311b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Languages/CSharp/Libraries/Scrutor.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "95e503a62d424434",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Concepts/Design/Event Sourcing.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "01ac6d43e6843ee1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Languages/CSharp/UsefulExtension_Helpers_Patterns/Make Task canceable.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "34dacd70af47b3de",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
-            "id": "1fdef3c095faca08",
+            "id": "51f32ef3ac6df195",
             "type": "leaf",
             "state": {
               "type": "empty",
               "state": {}
             }
-          },
-          {
-            "id": "594cb25c7acd62ac",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Programming/Languages/CSharp/Language/Task/TaskCompletationSource.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 10
+        ]
       }
     ],
     "direction": "vertical"
@@ -219,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "validation",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -248,7 +73,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Languages/CSharp/Libraries/Scrutor.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -275,9 +99,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Programming/Languages/CSharp/Libraries/Scrutor.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -297,10 +119,16 @@
       "templates:Insert template": false
     }
   },
-  "active": "939a6d3a25ad311b",
+  "active": "51f32ef3ac6df195",
   "lastOpenFiles": [
-    "Programming/Languages/CSharp/Libraries/MediatR.md",
+    "Programming/Languages/CSharp/Tools/LinqPad/LinqPad.md",
+    "Programming/Languages/CSharp/UsefulExtension_Helpers_Patterns/Task Extensions.md",
+    "Programming/Languages/CSharp/UsefulExtension_Helpers_Patterns/Make Task canceable.md",
+    "Programming/Languages/CSharp/Security/Certificates.md",
+    "Programming/Concepts/Design/Terminology/Primitive Obsession.md",
+    "Programming/Languages/CSharp/Untitled",
     "Programming/Languages/CSharp/Libraries/Scrutor.md",
+    "Programming/Languages/CSharp/Libraries/MediatR.md",
     "Programming/Languages/CSharp/Libraries/FSCheck.md",
     "Programming/Languages/CSharp/Libraries/FluentValidation.md",
     "Programming/Languages/CSharp/Libraries/Bogus.md",
@@ -326,8 +154,6 @@
     "Programming/Languages/CSharp/Tools/LinqPad/Connect To Databases/Connect Linqpad to SQLLite.md",
     "Programming/Languages/CSharp/Tools/LinqPad/Connect To Databases/ConnecToSQLLiteViaLinqPad_2.png",
     "Programming/Languages/CSharp/Tools/LinqPad/Connect To Databases/ConnecToSQLLiteViaLinqPad_1.png",
-    "Programming/Languages/CSharp/Tools/LinqPad/LinqPad.md",
-    "Programming/Languages/CSharp/UsefulExtension_Helpers_Patterns/Make Task canceable.md",
     "Untitled.md"
   ]
 }
