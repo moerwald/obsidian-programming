@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Languages/CSharp/NuGet/Zentrale NuGet Paketverwaltung.md",
+                "file": "IT/Databases/PostgreSql/Logging activate.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "postgres",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Languages/CSharp/NuGet/Zentrale NuGet Paketverwaltung.md",
+                "file": "IT/Databases/PostgreSql/Logging activate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -113,7 +113,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Languages/CSharp/NuGet/Zentrale NuGet Paketverwaltung.md"
+                "file": "IT/Databases/PostgreSql/Logging activate.md"
               }
             }
           }
@@ -136,8 +136,16 @@
   },
   "active": "51f32ef3ac6df195",
   "lastOpenFiles": [
-    "Programming/Languages/CSharp/MSBuild/Runtime IDs.md",
+    "IT/Databases/PostgreSql/Partitioning.md",
+    "IT/Databases/PostgreSql/Logging activate.md",
+    "IT/Databases/PostgreSql/pgSql/pgSql.md",
+    "Programming/Languages/MsBuild/Gute Links.md",
+    "Programming/Languages/MsBuild/Bin Log.md",
+    "Programming/Languages/MsBuild/Get performance summary.md",
+    "Programming/Languages/MsBuild/Get preprocessed project file.md",
     "Programming/Languages/CSharp/NuGet/Zentrale NuGet Paketverwaltung.md",
+    "Programming/Languages/MsBuild",
+    "Programming/Languages/CSharp/MSBuild/Runtime IDs.md",
     "Programming/Languages/CSharp/NuGet",
     "IT/Databases/Database Fundamentals/Isolation.md",
     "IT/Databases/Database Fundamentals/Pasted image 20230514093639.png",
@@ -168,11 +176,6 @@
     "Programming/Languages/CSharp/Libraries/LanguageExt/Validation.md",
     "Programming/Languages/Protobuf",
     "Programming/Languages/CSharp/Libraries/LanguageExt/LanguageExt.md",
-    "Programming/Concepts/Design/Event Sourcing.md",
-    "Programming/Languages/CSharp/Libraries/EFCore/Entities.md",
-    "Programming/Languages/CSharp/Libraries/EFCore/Use SqlLite/SQLLite with EFCore.md",
-    "Programming/Languages/CSharp/Tools/LinqPad/Connect To Databases/Connect Linqpad to SQLLite.md",
-    "Programming/Languages/CSharp/Tools/LinqPad/Connect To Databases/ConnecToSQLLiteViaLinqPad_2.png",
-    "Untitled.md"
+    "Programming/Languages/CSharp/Tools/LinqPad/Connect To Databases/ConnecToSQLLiteViaLinqPad_2.png"
   ]
 }
