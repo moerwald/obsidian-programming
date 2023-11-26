@@ -23,11 +23,9 @@
             "id": "2dd3cacb124f3136",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Git/Git reset/Git reset.md",
-                "mode": "source",
-                "source": false
+                "file": "ProgrammingKnowledge/Programming/Git/Reflog/Pasted image 20231126214341.png"
               }
             }
           }
@@ -106,7 +104,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Git/Git reset/Git reset.md",
+                "file": "ProgrammingKnowledge/Programming/Git/Reflog/Pasted image 20231126214341.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -123,7 +121,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Git/Git reset/Git reset.md",
+                "file": "ProgrammingKnowledge/Programming/Git/Reflog/Pasted image 20231126214341.png",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -146,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Git/Git reset/Git reset.md"
+                "file": "ProgrammingKnowledge/Programming/Git/Reflog/Pasted image 20231126214341.png"
               }
             }
           },
@@ -178,12 +176,21 @@
   },
   "active": "8c52df5aa08da735",
   "lastOpenFiles": [
+    "ProgrammingKnowledge/Programming/Git/Reflog/Reflog.md",
+    "ProgrammingKnowledge/Programming/Git/Reflog/Pasted image 20231126214640.png",
+    "ProgrammingKnowledge/Programming/Git/Reflog/Pasted image 20231126214613.png",
+    "ProgrammingKnowledge/Programming/Git/Reflog/Pasted image 20231126214546.png",
+    "ProgrammingKnowledge/Programming/Git/Reflog/Pasted image 20231126214459.png",
+    "ProgrammingKnowledge/Programming/Git/Reflog/Pasted image 20231126214423.png",
+    "ProgrammingKnowledge/Programming/Git/Reflog/Pasted image 20231126214341.png",
+    "ProgrammingKnowledge/Programming/Git/Reflog/Pasted image 20231126214220.png",
+    "ProgrammingKnowledge/Programming/Git/Reflog/Pasted image 20231126213146.png",
+    "ProgrammingKnowledge/Programming/Git/Git reset/Git reset.md",
+    "ProgrammingKnowledge/Programming/Git/Reflog",
     "ProgrammingKnowledge/Programming/Git/Git reset/Pasted image 20231126212405.png",
     "ProgrammingKnowledge/Programming/Git/Git reset/Pasted image 20231126212342.png",
     "ProgrammingKnowledge/Programming/Git/Git reset",
-    "ProgrammingKnowledge/Programming/Git/Git reset/Pasted image 20231126212229.png",
     "ProgrammingKnowledge/Programming/Git/Git commit.md",
-    "ProgrammingKnowledge/Programming/Git/Git reset/Git reset.md",
     "ProgrammingKnowledge/Programming/Git/Git diff.md",
     "ProgrammingKnowledge/Programming/Git/Git show.md",
     "ProgrammingKnowledge/Programming/Git/Git stash, keep index.md",
