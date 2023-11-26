@@ -43,5 +43,19 @@ git stash save --keep-index --include-untracked
 Only stashes the working directory (incl. new untracked files)
 
 
+### Reuse commit message from specific commit
+
+```
+git commit --ammed -C HEAD
+```
+
+Reuses the commit message of `HEAD`.
+## Commit Message Format
+
+Commit message should consist of:
+
+- Short summary (max. 50 characters)
+- Detailed description
+
 
 #Git 

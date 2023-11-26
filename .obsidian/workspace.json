@@ -8,18 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "2fb5dd0f4074dac9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ProgrammingKnowledge/Programming/Languages/CSharp/Nuget Packages to know.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "dfe39ad7fc5765fb",
             "type": "leaf",
             "state": {
@@ -37,22 +25,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Git/Git commit.md",
+                "file": "ProgrammingKnowledge/Programming/Git/Git reset/Git reset.md",
                 "mode": "source",
                 "source": false
               }
             }
-          },
-          {
-            "id": "7b31ef615dcf399d",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {}
-            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -126,7 +106,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Git/Git commit.md",
+                "file": "ProgrammingKnowledge/Programming/Git/Git reset/Git reset.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +123,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Git/Git commit.md",
+                "file": "ProgrammingKnowledge/Programming/Git/Git reset/Git reset.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Git/Git commit.md"
+                "file": "ProgrammingKnowledge/Programming/Git/Git reset/Git reset.md"
               }
             }
           },
@@ -196,10 +176,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "2dd3cacb124f3136",
+  "active": "8c52df5aa08da735",
   "lastOpenFiles": [
-    "ProgrammingKnowledge/Programming/Git/Git diff.md",
+    "ProgrammingKnowledge/Programming/Git/Git reset/Pasted image 20231126212405.png",
+    "ProgrammingKnowledge/Programming/Git/Git reset/Pasted image 20231126212342.png",
+    "ProgrammingKnowledge/Programming/Git/Git reset",
+    "ProgrammingKnowledge/Programming/Git/Git reset/Pasted image 20231126212229.png",
     "ProgrammingKnowledge/Programming/Git/Git commit.md",
+    "ProgrammingKnowledge/Programming/Git/Git reset/Git reset.md",
+    "ProgrammingKnowledge/Programming/Git/Git diff.md",
     "ProgrammingKnowledge/Programming/Git/Git show.md",
     "ProgrammingKnowledge/Programming/Git/Git stash, keep index.md",
     "ProgrammingKnowledge/Programming/Git/Git alias.md",
