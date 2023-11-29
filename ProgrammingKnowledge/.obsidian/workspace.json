@@ -45,7 +45,7 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "Programming/Git/Git branching/Pasted image 20231129083712.png"
+                "file": "Programming/Git/Git fundamentals/Pasted image 20231129090147.png"
               }
             }
           }
@@ -116,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Git/Git branching/Pasted image 20231129083712.png",
+                "file": "Programming/Git/Git fundamentals/Pasted image 20231129090147.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Git/Git branching/Pasted image 20231129083712.png"
+                "file": "Programming/Git/Git fundamentals/Pasted image 20231129090147.png"
               }
             }
           },
@@ -176,17 +176,19 @@
   },
   "active": "f681c5a6bb3f67c9",
   "lastOpenFiles": [
+    "Programming/Git/Git fundamentals/Git fundamentals.md",
+    "Programming/Git/Git fundamentals/Pasted image 20231129090404.png",
+    "Pasted image 20231129090257.png",
+    "Programming/Git/Git fundamentals/Pasted image 20231129090147.png",
+    "Programming/Git/Git branching/Pasted image 20231129083712.png",
+    "Programming/Git/Git fundamentals",
     "Programming/Git/Git branching/Git branching.md",
     "Programming/Git/Git branching/Pasted image 20231129084645.png",
     "Programming/Git/Git branching/Pasted image 20231129084627.png",
     "Programming/Git/Git branching/Pasted image 20231129084251.png",
     "Programming/Git/Git branching/Pasted image 20231129083856.png",
-    "Programming/Git/Git branching/Pasted image 20231129083712.png",
     "Programming/Git/Git branching/Pasted image 20231129082939.png",
     "Programming/Git/Git branching/Pasted image 20231129083553.png",
-    "Programming/Git/Git branching/Pasted image 20231129083300.png",
-    "Programming/Git/Git branching/Pasted image 20231129083137.png",
-    "Programming/Git/Git branching/Pasted image 20231129083052.png",
     "Troubleshooting/Möglichkeiten ein Problem zu lösen.md",
     "Programming/Git/Git commit.md",
     "Programming/Git/Git branching",
@@ -217,7 +219,6 @@
     "Programming/Languages/CSharp/Libraries/FSCheck.md",
     "Programming/Languages/CSharp/Libraries/MediatR.md",
     "Programming/Languages/CSharp/Libraries/Scrutor.md",
-    "Programming/Languages/CSharp/Tools/LinqPad/LinqPad.md",
     "IT/Security",
     "Programming/Languages/Protobuf"
   ]
