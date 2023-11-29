@@ -23,16 +23,34 @@
             "id": "eed0364f8553f6f1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "IT/Databases/PostgreSql/Logging activate.md",
-                "mode": "source",
-                "source": false
+                "file": "Programming/Git/Git branching/Pasted image 20231129082510.png"
+              }
+            }
+          },
+          {
+            "id": "7cb5f36b48beb10e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Programming/Git/Git branching/Pasted image 20231129082607.png"
+              }
+            }
+          },
+          {
+            "id": "f5c8f2ca62ca2036",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Programming/Git/Git branching/Pasted image 20231129083712.png"
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -78,8 +96,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -99,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Databases/PostgreSql/Logging activate.md",
+                "file": "Programming/Git/Git branching/Pasted image 20231129083712.png",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +144,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Databases/PostgreSql/Logging activate.md"
+                "file": "Programming/Git/Git branching/Pasted image 20231129083712.png"
               }
             }
           },
@@ -157,12 +174,32 @@
       "templates:Insert template": false
     }
   },
-  "active": "eed0364f8553f6f1",
+  "active": "f681c5a6bb3f67c9",
   "lastOpenFiles": [
+    "Programming/Git/Git branching/Git branching.md",
+    "Programming/Git/Git branching/Pasted image 20231129084645.png",
+    "Programming/Git/Git branching/Pasted image 20231129084627.png",
+    "Programming/Git/Git branching/Pasted image 20231129084251.png",
+    "Programming/Git/Git branching/Pasted image 20231129083856.png",
+    "Programming/Git/Git branching/Pasted image 20231129083712.png",
+    "Programming/Git/Git branching/Pasted image 20231129082939.png",
+    "Programming/Git/Git branching/Pasted image 20231129083553.png",
+    "Programming/Git/Git branching/Pasted image 20231129083300.png",
+    "Programming/Git/Git branching/Pasted image 20231129083137.png",
+    "Programming/Git/Git branching/Pasted image 20231129083052.png",
+    "Troubleshooting/Möglichkeiten ein Problem zu lösen.md",
+    "Programming/Git/Git commit.md",
+    "Programming/Git/Git branching",
+    "Programming/Git/Reflog/Reflog.md",
+    "Programming/Git/Git reset/Git reset.md",
+    "Programming/Git/Git show.md",
+    "Programming/Git/Reflog",
+    "Programming/Git/Git reset",
+    "IT/Databases/PostgreSql/Logging activate.md",
+    "Programming/Git/Git diff.md",
     "Programming/Git/Git stash, keep index.md",
     "Programming/Git/Git add partial parts of file.md",
     "Programming/Git/Git alias.md",
-    "IT/Databases/PostgreSql/Logging activate.md",
     "Programming/Git",
     "IT/Databases/PostgreSql/pgSql/pgSql.md",
     "IT/Databases/PostgreSql/Partitioning.md",
@@ -175,31 +212,13 @@
     "Programming/Languages/CSharp/MSBuild/Runtime IDs.md",
     "Programming/Languages/CSharp/NuGet",
     "IT/Databases/Database Fundamentals/Isolation.md",
-    "IT/Databases/Database Fundamentals/Pasted image 20230514093639.png",
     "Programming/Languages/CSharp/Libraries/FluentValidation.md",
     "IT/Databases/Database Fundamentals",
     "Programming/Languages/CSharp/Libraries/FSCheck.md",
     "Programming/Languages/CSharp/Libraries/MediatR.md",
     "Programming/Languages/CSharp/Libraries/Scrutor.md",
     "Programming/Languages/CSharp/Tools/LinqPad/LinqPad.md",
-    "Programming/Languages/CSharp/UsefulExtension_Helpers_Patterns/Task Extensions.md",
-    "Programming/Languages/CSharp/UsefulExtension_Helpers_Patterns/Make Task canceable.md",
-    "Programming/Languages/CSharp/Security/Certificates.md",
-    "Programming/Concepts/Design/Terminology/Primitive Obsession.md",
-    "Programming/Languages/CSharp/Libraries/Bogus.md",
-    "Programming/Languages/CSharp/CallerArgumentExpression.md",
-    "IT/Security/Pasted image 20230307090806.png",
-    "IT/Security/Pasted image 20230307090354.png",
-    "IT/Security/Pasted image 20230307084520.png",
-    "IT/Security/Pasted image 20230307084422.png",
-    "IT/Security/Pasted image 20230307084155.png",
-    "IT/Security/Pasted image 20230306161211.png",
-    "IT/Security/Pasted image 20230306161031.png",
-    "IT/Security/Pasted image 20230306160556.png",
-    "IT/Security/OpenID Connect.md",
-    "IT/Security/OAuth 2.0.md",
     "IT/Security",
-    "Programming/Languages/Protobuf",
-    "Programming/Languages/CSharp/Tools/LinqPad/Connect To Databases/ConnecToSQLLiteViaLinqPad_2.png"
+    "Programming/Languages/Protobuf"
   ]
 }
