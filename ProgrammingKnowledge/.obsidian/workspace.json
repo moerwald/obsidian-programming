@@ -43,9 +43,11 @@
             "id": "f5c8f2ca62ca2036",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Programming/Git/Git fundamentals/Pasted image 20231129090147.png"
+                "file": "IT/Databases/PostgreSql/Allow connections from remote host.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -79,7 +81,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "post",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -116,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Git/Git fundamentals/Pasted image 20231129090147.png",
+                "file": "IT/Databases/PostgreSql/Allow connections from remote host.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -144,7 +146,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Git/Git fundamentals/Pasted image 20231129090147.png"
+                "file": "IT/Databases/PostgreSql/Allow connections from remote host.md"
               }
             }
           },
@@ -154,7 +156,9 @@
             "state": {
               "type": "all-properties",
               "state": {
-                "sortOrder": "frequency"
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
               }
             }
           }
@@ -174,15 +178,29 @@
       "templates:Insert template": false
     }
   },
-  "active": "f681c5a6bb3f67c9",
+  "active": "f5c8f2ca62ca2036",
   "lastOpenFiles": [
+    "IT/Databases/PostgreSql/Logging activate.md",
+    "IT/Databases/PostgreSql/Allow connections from remote host.md",
+    "IT/Databases/PostgreSql/Partitioning.md",
+    "IT/Databases/PostgreSql/pgSql/pgSql.md",
+    "Programming/Git/Git show.md",
+    "Programming/Git/Git branching/Git branching.md",
+    "Programming/Concepts/Refactoring/Lift Up Condition.md",
+    "Programming/Concepts/Object Oriented Programming/Micro Objects.md",
+    "Programming/Concepts/Design/Event Sourcing.md",
+    "Programming/Git/Git reset/Git reset.md",
     "Programming/Git/Git fundamentals/Git fundamentals.md",
+    "Programming/Git/Git stash, keep index.md",
+    "Programming/Git/Git diff.md",
+    "Programming/Git/Git commit.md",
+    "Programming/Git/Git alias.md",
+    "Programming/Git/Git add partial parts of file.md",
     "Programming/Git/Git fundamentals/Pasted image 20231129090404.png",
     "Pasted image 20231129090257.png",
     "Programming/Git/Git fundamentals/Pasted image 20231129090147.png",
     "Programming/Git/Git branching/Pasted image 20231129083712.png",
     "Programming/Git/Git fundamentals",
-    "Programming/Git/Git branching/Git branching.md",
     "Programming/Git/Git branching/Pasted image 20231129084645.png",
     "Programming/Git/Git branching/Pasted image 20231129084627.png",
     "Programming/Git/Git branching/Pasted image 20231129084251.png",
@@ -190,21 +208,11 @@
     "Programming/Git/Git branching/Pasted image 20231129082939.png",
     "Programming/Git/Git branching/Pasted image 20231129083553.png",
     "Troubleshooting/Möglichkeiten ein Problem zu lösen.md",
-    "Programming/Git/Git commit.md",
     "Programming/Git/Git branching",
     "Programming/Git/Reflog/Reflog.md",
-    "Programming/Git/Git reset/Git reset.md",
-    "Programming/Git/Git show.md",
     "Programming/Git/Reflog",
     "Programming/Git/Git reset",
-    "IT/Databases/PostgreSql/Logging activate.md",
-    "Programming/Git/Git diff.md",
-    "Programming/Git/Git stash, keep index.md",
-    "Programming/Git/Git add partial parts of file.md",
-    "Programming/Git/Git alias.md",
     "Programming/Git",
-    "IT/Databases/PostgreSql/pgSql/pgSql.md",
-    "IT/Databases/PostgreSql/Partitioning.md",
     "Programming/Languages/MsBuild/Gute Links.md",
     "Programming/Languages/MsBuild/Bin Log.md",
     "Programming/Languages/MsBuild/Get performance summary.md",
@@ -216,9 +224,6 @@
     "IT/Databases/Database Fundamentals/Isolation.md",
     "Programming/Languages/CSharp/Libraries/FluentValidation.md",
     "IT/Databases/Database Fundamentals",
-    "Programming/Languages/CSharp/Libraries/FSCheck.md",
-    "Programming/Languages/CSharp/Libraries/MediatR.md",
-    "Programming/Languages/CSharp/Libraries/Scrutor.md",
     "IT/Security",
     "Programming/Languages/Protobuf"
   ]
