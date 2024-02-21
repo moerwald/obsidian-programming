@@ -25,12 +25,24 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Git/Reflog/Pasted image 20231126214341.png"
+                "file": "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129201720.png"
+              }
+            }
+          },
+          {
+            "id": "37ebf039b931867c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ProgrammingKnowledge/Programming/Git/Git history/Git history.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -104,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Git/Reflog/Pasted image 20231126214341.png",
+                "file": "ProgrammingKnowledge/Programming/Git/Git history/Git history.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -121,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Git/Reflog/Pasted image 20231126214341.png",
+                "file": "ProgrammingKnowledge/Programming/Git/Git history/Git history.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Git/Reflog/Pasted image 20231126214341.png"
+                "file": "ProgrammingKnowledge/Programming/Git/Git history/Git history.md"
               }
             }
           },
@@ -174,21 +186,28 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "8c52df5aa08da735",
+  "active": "37ebf039b931867c",
   "lastOpenFiles": [
+    "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129202746.png",
+    "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129204349.png",
+    "Pasted image 20231129204320.png",
+    "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129204631.png",
+    "ProgrammingKnowledge/Programming/Git/Git history/Git history.md",
+    "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129204238.png",
+    "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129203638.png",
+    "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129203505.png",
+    "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129202847.png",
+    "Pasted image 20231129202542.png",
+    "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129202618.png",
+    "ProgrammingKnowledge/Programming/Concepts/Testing/Property Based Testing.md",
+    "ProgrammingKnowledge/Programming/Git/Git history",
+    "ProgrammingKnowledge/Programming/Git/Git fundamentals/Git fundamentals.md",
+    "ProgrammingKnowledge/Programming/Git/Git fundamentals",
+    "ProgrammingKnowledge/Programming/Git/Git branching/Git branching.md",
+    "ProgrammingKnowledge/Programming/Git/Git branching",
     "ProgrammingKnowledge/Programming/Git/Reflog/Reflog.md",
-    "ProgrammingKnowledge/Programming/Git/Reflog/Pasted image 20231126214640.png",
-    "ProgrammingKnowledge/Programming/Git/Reflog/Pasted image 20231126214613.png",
-    "ProgrammingKnowledge/Programming/Git/Reflog/Pasted image 20231126214546.png",
-    "ProgrammingKnowledge/Programming/Git/Reflog/Pasted image 20231126214459.png",
-    "ProgrammingKnowledge/Programming/Git/Reflog/Pasted image 20231126214423.png",
-    "ProgrammingKnowledge/Programming/Git/Reflog/Pasted image 20231126214341.png",
-    "ProgrammingKnowledge/Programming/Git/Reflog/Pasted image 20231126214220.png",
-    "ProgrammingKnowledge/Programming/Git/Reflog/Pasted image 20231126213146.png",
     "ProgrammingKnowledge/Programming/Git/Git reset/Git reset.md",
     "ProgrammingKnowledge/Programming/Git/Reflog",
-    "ProgrammingKnowledge/Programming/Git/Git reset/Pasted image 20231126212405.png",
-    "ProgrammingKnowledge/Programming/Git/Git reset/Pasted image 20231126212342.png",
     "ProgrammingKnowledge/Programming/Git/Git reset",
     "ProgrammingKnowledge/Programming/Git/Git commit.md",
     "ProgrammingKnowledge/Programming/Git/Git diff.md",
