@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProgrammingKnowledge/IT/Docker/DNS.md",
+                "file": "ProgrammingKnowledge/IT/Docker/Dockerfile.md",
                 "mode": "source",
                 "source": false
               }
@@ -128,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProgrammingKnowledge/IT/Docker/DNS.md",
+                "file": "ProgrammingKnowledge/IT/Docker/Dockerfile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProgrammingKnowledge/IT/Docker/DNS.md",
+                "file": "ProgrammingKnowledge/IT/Docker/Dockerfile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProgrammingKnowledge/IT/Docker/DNS.md"
+                "file": "ProgrammingKnowledge/IT/Docker/Dockerfile.md"
               }
             }
           },
@@ -200,8 +200,12 @@
   },
   "active": "117d36aec49eccad",
   "lastOpenFiles": [
-    "ProgrammingKnowledge/IT/Docker/Networking.md",
+    "ProgrammingKnowledge/IT/Docker/Images.md",
+    "ProgrammingKnowledge/IT/Docker/Dockerfile.md",
+    "ProgrammingKnowledge/IT/Docker/Container.md",
     "ProgrammingKnowledge/IT/Docker/DNS.md",
+    "ProgrammingKnowledge/IT/Databases/PostgreSql/Allow connections from remote host.md",
+    "ProgrammingKnowledge/IT/Docker/Networking.md",
     "ProgrammingKnowledge/Programming/Git/Git history/Git history.md",
     "ProgrammingKnowledge/IT/Docker",
     "ProgrammingKnowledge/Programming/Git/Reflog/Reflog.md",
@@ -238,9 +242,6 @@
     "ProgrammingKnowledge/IT/Cloud/Azure/IOT Services/Azure IOT Central.md",
     "ProgrammingKnowledge/IT/Cloud/Azure/Azure.md",
     "ProgrammingKnowledge/IT/Cloud/Azure/Storage Services/Azure Storage Account.md",
-    "ProgrammingKnowledge/IT/Windows/Activate Re.md",
-    "ProgrammingKnowledge/IT/Windows/Remote Desktop/Activate Remote Desktop.md",
-    "ProgrammingKnowledge/IT/Links/Limited.md",
-    "ProgrammingKnowledge/IT/Databases/PostgreSql/Partitioning.md"
+    "ProgrammingKnowledge/IT/Windows/Activate Re.md"
   ]
 }
