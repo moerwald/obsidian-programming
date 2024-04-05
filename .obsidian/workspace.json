@@ -45,11 +45,9 @@
             "id": "117d36aec49eccad",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ProgrammingKnowledge/IT/Docker/Dockerfile.md",
-                "mode": "source",
-                "source": false
+                "file": "ProgrammingKnowledge/Programming/Git/CommitMessages.pdf"
               }
             }
           }
@@ -128,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProgrammingKnowledge/IT/Docker/Dockerfile.md",
+                "file": "ProgrammingKnowledge/Programming/Git/CommitMessages.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProgrammingKnowledge/IT/Docker/Dockerfile.md",
+                "file": "ProgrammingKnowledge/Programming/Git/CommitMessages.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProgrammingKnowledge/IT/Docker/Dockerfile.md"
+                "file": "ProgrammingKnowledge/Programming/Git/CommitMessages.pdf"
               }
             }
           },
@@ -200,12 +198,18 @@
   },
   "active": "117d36aec49eccad",
   "lastOpenFiles": [
-    "ProgrammingKnowledge/IT/Docker/Images.md",
-    "ProgrammingKnowledge/IT/Docker/Dockerfile.md",
+    "ProgrammingKnowledge/Programming/Git/Git commit messages.md",
+    "ProgrammingKnowledge/Programming/Git/CommitMessages.pdf",
+    "ProgrammingKnowledge/Programming/Git/Git commit.md",
+    "ProgrammingKnowledge/IT/Docker/Docker Github Repo Udemy Kurs.md",
+    "ProgrammingKnowledge/IT/Docker/Docker Compose.md",
+    "ProgrammingKnowledge/IT/Docker/Volumes.md",
     "ProgrammingKnowledge/IT/Docker/Container.md",
-    "ProgrammingKnowledge/IT/Docker/DNS.md",
-    "ProgrammingKnowledge/IT/Databases/PostgreSql/Allow connections from remote host.md",
     "ProgrammingKnowledge/IT/Docker/Networking.md",
+    "ProgrammingKnowledge/IT/Docker/DNS.md",
+    "ProgrammingKnowledge/IT/Docker/Dockerfile.md",
+    "ProgrammingKnowledge/IT/Docker/Images.md",
+    "ProgrammingKnowledge/IT/Databases/PostgreSql/Allow connections from remote host.md",
     "ProgrammingKnowledge/Programming/Git/Git history/Git history.md",
     "ProgrammingKnowledge/IT/Docker",
     "ProgrammingKnowledge/Programming/Git/Reflog/Reflog.md",
@@ -213,7 +217,6 @@
     "ProgrammingKnowledge/Programming/Git/Git branching/Git branching.md",
     "ProgrammingKnowledge/Programming/Git/Git add partial parts of file.md",
     "ProgrammingKnowledge/Programming/Git/Git alias.md",
-    "ProgrammingKnowledge/Programming/Git/Git commit.md",
     "ProgrammingKnowledge/Programming/Git/Git diff.md",
     "ProgrammingKnowledge/Programming/Git/Git show.md",
     "ProgrammingKnowledge/Programming/Git/Git stash, keep index.md",
@@ -237,11 +240,6 @@
     "ProgrammingKnowledge/Programming/Git/Git reset",
     "ProgrammingKnowledge/IT/Cloud/Azure/IOT Services/Azure IOT Services.md",
     "ProgrammingKnowledge/Programming/Git",
-    "ProgrammingKnowledge/IT/Cloud/Azure/IOT Services/Azure Sphere.md",
-    "ProgrammingKnowledge/IT/Cloud/Azure/IOT Services/Azure IOT Hub.md",
-    "ProgrammingKnowledge/IT/Cloud/Azure/IOT Services/Azure IOT Central.md",
-    "ProgrammingKnowledge/IT/Cloud/Azure/Azure.md",
-    "ProgrammingKnowledge/IT/Cloud/Azure/Storage Services/Azure Storage Account.md",
-    "ProgrammingKnowledge/IT/Windows/Activate Re.md"
+    "ProgrammingKnowledge/IT/Cloud/Azure/IOT Services/Azure Sphere.md"
   ]
 }
