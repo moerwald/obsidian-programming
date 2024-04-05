@@ -35,14 +35,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Git/Git history/Git history.md",
+                "file": "ProgrammingKnowledge/Programming/Git/Git stash, keep index.md",
                 "mode": "source",
                 "source": false
               }
             }
+          },
+          {
+            "id": "117d36aec49eccad",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "ProgrammingKnowledge/Programming/Git/CommitMessages.pdf"
+              }
+            }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -116,7 +126,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Git/Git history/Git history.md",
+                "file": "ProgrammingKnowledge/Programming/Git/CommitMessages.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -133,7 +143,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Git/Git history/Git history.md",
+                "file": "ProgrammingKnowledge/Programming/Git/CommitMessages.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -156,7 +166,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Git/Git history/Git history.md"
+                "file": "ProgrammingKnowledge/Programming/Git/CommitMessages.pdf"
               }
             }
           },
@@ -186,13 +196,36 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37ebf039b931867c",
+  "active": "117d36aec49eccad",
   "lastOpenFiles": [
+    "ProgrammingKnowledge/Programming/Git/Git commit messages.md",
+    "ProgrammingKnowledge/Programming/Git/CommitMessages.pdf",
+    "ProgrammingKnowledge/Programming/Git/Git commit.md",
+    "ProgrammingKnowledge/IT/Docker/Docker Github Repo Udemy Kurs.md",
+    "ProgrammingKnowledge/IT/Docker/Docker Compose.md",
+    "ProgrammingKnowledge/IT/Docker/Volumes.md",
+    "ProgrammingKnowledge/IT/Docker/Container.md",
+    "ProgrammingKnowledge/IT/Docker/Networking.md",
+    "ProgrammingKnowledge/IT/Docker/DNS.md",
+    "ProgrammingKnowledge/IT/Docker/Dockerfile.md",
+    "ProgrammingKnowledge/IT/Docker/Images.md",
+    "ProgrammingKnowledge/IT/Databases/PostgreSql/Allow connections from remote host.md",
+    "ProgrammingKnowledge/Programming/Git/Git history/Git history.md",
+    "ProgrammingKnowledge/IT/Docker",
+    "ProgrammingKnowledge/Programming/Git/Reflog/Reflog.md",
+    "ProgrammingKnowledge/Programming/Git/Git fundamentals/Git fundamentals.md",
+    "ProgrammingKnowledge/Programming/Git/Git branching/Git branching.md",
+    "ProgrammingKnowledge/Programming/Git/Git add partial parts of file.md",
+    "ProgrammingKnowledge/Programming/Git/Git alias.md",
+    "ProgrammingKnowledge/Programming/Git/Git diff.md",
+    "ProgrammingKnowledge/Programming/Git/Git show.md",
+    "ProgrammingKnowledge/Programming/Git/Git stash, keep index.md",
+    "ProgrammingKnowledge/Programming/Git/Git reset/Git reset.md",
+    "Untitled.md",
     "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129202746.png",
     "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129204349.png",
     "Pasted image 20231129204320.png",
     "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129204631.png",
-    "ProgrammingKnowledge/Programming/Git/Git history/Git history.md",
     "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129204238.png",
     "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129203638.png",
     "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129203505.png",
@@ -201,30 +234,12 @@
     "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129202618.png",
     "ProgrammingKnowledge/Programming/Concepts/Testing/Property Based Testing.md",
     "ProgrammingKnowledge/Programming/Git/Git history",
-    "ProgrammingKnowledge/Programming/Git/Git fundamentals/Git fundamentals.md",
     "ProgrammingKnowledge/Programming/Git/Git fundamentals",
-    "ProgrammingKnowledge/Programming/Git/Git branching/Git branching.md",
     "ProgrammingKnowledge/Programming/Git/Git branching",
-    "ProgrammingKnowledge/Programming/Git/Reflog/Reflog.md",
-    "ProgrammingKnowledge/Programming/Git/Git reset/Git reset.md",
     "ProgrammingKnowledge/Programming/Git/Reflog",
     "ProgrammingKnowledge/Programming/Git/Git reset",
-    "ProgrammingKnowledge/Programming/Git/Git commit.md",
-    "ProgrammingKnowledge/Programming/Git/Git diff.md",
-    "ProgrammingKnowledge/Programming/Git/Git show.md",
-    "ProgrammingKnowledge/Programming/Git/Git stash, keep index.md",
-    "ProgrammingKnowledge/Programming/Git/Git alias.md",
-    "ProgrammingKnowledge/Programming/Git/Git add partial parts of file.md",
     "ProgrammingKnowledge/IT/Cloud/Azure/IOT Services/Azure IOT Services.md",
     "ProgrammingKnowledge/Programming/Git",
-    "ProgrammingKnowledge/IT/Cloud/Azure/IOT Services/Azure Sphere.md",
-    "ProgrammingKnowledge/IT/Cloud/Azure/IOT Services/Azure IOT Hub.md",
-    "ProgrammingKnowledge/IT/Cloud/Azure/IOT Services/Azure IOT Central.md",
-    "ProgrammingKnowledge/IT/Cloud/Azure/Azure.md",
-    "ProgrammingKnowledge/IT/Cloud/Azure/Storage Services/Azure Storage Account.md",
-    "ProgrammingKnowledge/IT/Windows/Activate Re.md",
-    "ProgrammingKnowledge/IT/Windows/Remote Desktop/Activate Remote Desktop.md",
-    "ProgrammingKnowledge/IT/Links/Limited.md",
-    "ProgrammingKnowledge/IT/Databases/PostgreSql/Partitioning.md"
+    "ProgrammingKnowledge/IT/Cloud/Azure/IOT Services/Azure Sphere.md"
   ]
 }

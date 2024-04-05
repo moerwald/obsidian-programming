@@ -11,7 +11,7 @@ Valid in git log
 
 ![[Pasted image 20231129202133.png]]
 
-### Show branch hirarchy
+### Show branch hierarchy
 
 
 ![[Pasted image 20231129202618.png]]
