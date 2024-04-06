@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Git/Git stash, keep index.md",
+                "file": "ProgrammingKnowledge/IT/Kubernetes/Deployment.md",
                 "mode": "source",
                 "source": false
               }
@@ -45,14 +45,26 @@
             "id": "117d36aec49eccad",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Git/CommitMessages.pdf"
+                "file": "ProgrammingKnowledge/IT/Security/OAuth 2.0.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "138d016b70684018",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -126,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Git/CommitMessages.pdf",
+                "file": "ProgrammingKnowledge/IT/Kubernetes/Deployment.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Git/CommitMessages.pdf",
+                "file": "ProgrammingKnowledge/IT/Kubernetes/Deployment.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -166,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Git/CommitMessages.pdf"
+                "file": "ProgrammingKnowledge/IT/Kubernetes/Deployment.md"
               }
             }
           },
@@ -196,16 +208,21 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "117d36aec49eccad",
+  "active": "37ebf039b931867c",
   "lastOpenFiles": [
-    "ProgrammingKnowledge/Programming/Git/Git commit messages.md",
+    "ProgrammingKnowledge/Programming/Git/Git commit categories.md",
+    "ProgrammingKnowledge/IT/Docker/Volumes.md",
+    "ProgrammingKnowledge/IT/Kubernetes/Deployment.md",
+    "ProgrammingKnowledge/IT/Kubernetes",
+    "ProgrammingKnowledge/IT/Docker/Networking.md",
+    "ProgrammingKnowledge/Programming/Git/Git stash, keep index.md",
+    "ProgrammingKnowledge/IT/Cloud/Azure/Compute Services/Compute Services.md",
     "ProgrammingKnowledge/Programming/Git/CommitMessages.pdf",
+    "ProgrammingKnowledge/Programming/Git/Git commit messages.md",
     "ProgrammingKnowledge/Programming/Git/Git commit.md",
     "ProgrammingKnowledge/IT/Docker/Docker Github Repo Udemy Kurs.md",
     "ProgrammingKnowledge/IT/Docker/Docker Compose.md",
-    "ProgrammingKnowledge/IT/Docker/Volumes.md",
     "ProgrammingKnowledge/IT/Docker/Container.md",
-    "ProgrammingKnowledge/IT/Docker/Networking.md",
     "ProgrammingKnowledge/IT/Docker/DNS.md",
     "ProgrammingKnowledge/IT/Docker/Dockerfile.md",
     "ProgrammingKnowledge/IT/Docker/Images.md",
@@ -219,7 +236,6 @@
     "ProgrammingKnowledge/Programming/Git/Git alias.md",
     "ProgrammingKnowledge/Programming/Git/Git diff.md",
     "ProgrammingKnowledge/Programming/Git/Git show.md",
-    "ProgrammingKnowledge/Programming/Git/Git stash, keep index.md",
     "ProgrammingKnowledge/Programming/Git/Git reset/Git reset.md",
     "Untitled.md",
     "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129202746.png",
@@ -238,8 +254,6 @@
     "ProgrammingKnowledge/Programming/Git/Git branching",
     "ProgrammingKnowledge/Programming/Git/Reflog",
     "ProgrammingKnowledge/Programming/Git/Git reset",
-    "ProgrammingKnowledge/IT/Cloud/Azure/IOT Services/Azure IOT Services.md",
-    "ProgrammingKnowledge/Programming/Git",
-    "ProgrammingKnowledge/IT/Cloud/Azure/IOT Services/Azure Sphere.md"
+    "ProgrammingKnowledge/Programming/Git"
   ]
 }
