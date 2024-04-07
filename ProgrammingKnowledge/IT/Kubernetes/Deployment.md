@@ -9,6 +9,12 @@ kubectl create depoyment my-apache --image httpd
 
 erzeugt werden.
 
+Ein Deployment kann hochsklaiert werden:
+
+```
+kubectl scale deploy/my-apache --replicas 2
+```
+
 Möchte man sich anzeigen lassen was passiert, kann man 
 
 ```
@@ -225,6 +231,28 @@ LAST SEEN   TYPE     REASON    OBJECT                           MESSAGE
 0s          Normal   Created            pod/my-apache-5bd7979764-c2g9l    Created container httpd
 0s          Normal   Started            pod/my-apache-5bd7979764-c2g9l    Started container httpd
 ```
+
+
+## Container Logs
+
+Log über alle Pods eines Deployments:
+
+```
+kubectl logs deploy/my-apache --follow --tail 1
+```
+
+Logs eines Pods:
+
+```
+ kubectl logs pod/my-apache-5bd7979764-2ts4t     
+```
+
+Logs aller Pods via Label-Search (bekommt man via `kubectl describe deploy my-apache`):
+
+```
+ kubectl logs -l app=my-apache
+```
+
 
 
 #Kubernetes
