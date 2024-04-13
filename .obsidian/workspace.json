@@ -35,7 +35,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProgrammingKnowledge/IT/Kubernetes/Deployment.md",
+                "file": "ProgrammingKnowledge/IT/Kubernetes/ClusterIP.md",
                 "mode": "source",
                 "source": false
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProgrammingKnowledge/IT/Kubernetes/Deployment.md",
+                "file": "ProgrammingKnowledge/IT/Kubernetes/ClusterIP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +155,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProgrammingKnowledge/IT/Kubernetes/Deployment.md",
+                "file": "ProgrammingKnowledge/IT/Kubernetes/ClusterIP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +178,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProgrammingKnowledge/IT/Kubernetes/Deployment.md"
+                "file": "ProgrammingKnowledge/IT/Kubernetes/ClusterIP.md"
               }
             }
           },
@@ -210,9 +210,17 @@
   },
   "active": "37ebf039b931867c",
   "lastOpenFiles": [
+    "ProgrammingKnowledge/IT/Kubernetes/Kubernetes Architecture.md",
+    "ProgrammingKnowledge/IT/Kubernetes/ClusterIP.md",
+    "ProgrammingKnowledge/IT/Kubernetes/Pasted image 20240410221036.png",
+    "ProgrammingKnowledge/IT/Kubernetes/Pasted image 20240410215222.png",
+    "ProgrammingKnowledge/IT/Kubernetes/Pasted image 20240408222909.png",
+    "ProgrammingKnowledge/IT/Kubernetes/Imperative Commands.md",
+    "ProgrammingKnowledge/IT/Kubernetes/components-of-kubernetes.svg",
+    "ProgrammingKnowledge/IT/Kubernetes/kubectl apply, yaml formats.md",
+    "Untitled.md",
     "ProgrammingKnowledge/Programming/Git/Git commit categories.md",
     "ProgrammingKnowledge/IT/Docker/Volumes.md",
-    "ProgrammingKnowledge/IT/Kubernetes/Deployment.md",
     "ProgrammingKnowledge/IT/Kubernetes",
     "ProgrammingKnowledge/IT/Docker/Networking.md",
     "ProgrammingKnowledge/Programming/Git/Git stash, keep index.md",
@@ -235,20 +243,12 @@
     "ProgrammingKnowledge/Programming/Git/Git add partial parts of file.md",
     "ProgrammingKnowledge/Programming/Git/Git alias.md",
     "ProgrammingKnowledge/Programming/Git/Git diff.md",
-    "ProgrammingKnowledge/Programming/Git/Git show.md",
-    "ProgrammingKnowledge/Programming/Git/Git reset/Git reset.md",
-    "Untitled.md",
     "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129202746.png",
     "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129204349.png",
     "Pasted image 20231129204320.png",
     "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129204631.png",
     "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129204238.png",
     "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129203638.png",
-    "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129203505.png",
-    "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129202847.png",
-    "Pasted image 20231129202542.png",
-    "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129202618.png",
-    "ProgrammingKnowledge/Programming/Concepts/Testing/Property Based Testing.md",
     "ProgrammingKnowledge/Programming/Git/Git history",
     "ProgrammingKnowledge/Programming/Git/Git fundamentals",
     "ProgrammingKnowledge/Programming/Git/Git branching",
