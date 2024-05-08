@@ -58,7 +58,7 @@ PODs sind die kleinste deployable Einheit in K8s. Ein POD kann mehrere Container
 >[!note]
 >a service is a STABLE address for a pod (or a bunch of pods)
 
-Wenn wir uns auf PODs verbinden wollen, brauchen wir Services. Da Services Adressen darstellen müssen diese aufgelöst werden können, hier hilft uns CoreDNS.
+Services ermöglichen es PODs von außen zugänglich zu machen. Wenn wir uns auf PODs verbinden wollen, brauchen wir Services. Da Services Adressen darstellen müssen diese aufgelöst werden können, hier hilft uns CoreDNS.
 
 Arten von Services:
 - ClusterIP

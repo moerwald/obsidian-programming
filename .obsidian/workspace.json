@@ -33,11 +33,9 @@
             "id": "37ebf039b931867c",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "ProgrammingKnowledge/IT/Kubernetes/ClusterIP.md",
-                "mode": "source",
-                "source": false
+                "file": "ProgrammingKnowledge/Programming/Git/CommitMessages.pdf"
               }
             }
           },
@@ -138,7 +136,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProgrammingKnowledge/IT/Kubernetes/ClusterIP.md",
+                "file": "ProgrammingKnowledge/Programming/Git/CommitMessages.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -155,7 +153,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProgrammingKnowledge/IT/Kubernetes/ClusterIP.md",
+                "file": "ProgrammingKnowledge/Programming/Git/CommitMessages.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -178,7 +176,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProgrammingKnowledge/IT/Kubernetes/ClusterIP.md"
+                "file": "ProgrammingKnowledge/Programming/Git/CommitMessages.pdf"
               }
             }
           },
@@ -210,14 +208,20 @@
   },
   "active": "37ebf039b931867c",
   "lastOpenFiles": [
+    "ProgrammingKnowledge/Programming/Git/Git commit messages.md",
+    "ProgrammingKnowledge/IT/Kubernetes/Health Checks.md",
+    "ProgrammingKnowledge/IT/Docker/Problems.md",
+    "ProgrammingKnowledge/IT/Kubernetes/Rolling Update.md",
+    "ProgrammingKnowledge/IT/Kubernetes/Vor- und Nachteile.md",
+    "ProgrammingKnowledge/IT/Kubernetes/Begriffe.md",
     "ProgrammingKnowledge/IT/Kubernetes/Kubernetes Architecture.md",
     "ProgrammingKnowledge/IT/Kubernetes/ClusterIP.md",
+    "ProgrammingKnowledge/IT/Kubernetes/kubectl apply, yaml formats.md",
+    "ProgrammingKnowledge/IT/Kubernetes/Imperative Commands.md",
+    "ProgrammingKnowledge/IT/Kubernetes/components-of-kubernetes.svg",
     "ProgrammingKnowledge/IT/Kubernetes/Pasted image 20240410221036.png",
     "ProgrammingKnowledge/IT/Kubernetes/Pasted image 20240410215222.png",
     "ProgrammingKnowledge/IT/Kubernetes/Pasted image 20240408222909.png",
-    "ProgrammingKnowledge/IT/Kubernetes/Imperative Commands.md",
-    "ProgrammingKnowledge/IT/Kubernetes/components-of-kubernetes.svg",
-    "ProgrammingKnowledge/IT/Kubernetes/kubectl apply, yaml formats.md",
     "Untitled.md",
     "ProgrammingKnowledge/Programming/Git/Git commit categories.md",
     "ProgrammingKnowledge/IT/Docker/Volumes.md",
@@ -226,7 +230,6 @@
     "ProgrammingKnowledge/Programming/Git/Git stash, keep index.md",
     "ProgrammingKnowledge/IT/Cloud/Azure/Compute Services/Compute Services.md",
     "ProgrammingKnowledge/Programming/Git/CommitMessages.pdf",
-    "ProgrammingKnowledge/Programming/Git/Git commit messages.md",
     "ProgrammingKnowledge/Programming/Git/Git commit.md",
     "ProgrammingKnowledge/IT/Docker/Docker Github Repo Udemy Kurs.md",
     "ProgrammingKnowledge/IT/Docker/Docker Compose.md",
@@ -238,11 +241,6 @@
     "ProgrammingKnowledge/Programming/Git/Git history/Git history.md",
     "ProgrammingKnowledge/IT/Docker",
     "ProgrammingKnowledge/Programming/Git/Reflog/Reflog.md",
-    "ProgrammingKnowledge/Programming/Git/Git fundamentals/Git fundamentals.md",
-    "ProgrammingKnowledge/Programming/Git/Git branching/Git branching.md",
-    "ProgrammingKnowledge/Programming/Git/Git add partial parts of file.md",
-    "ProgrammingKnowledge/Programming/Git/Git alias.md",
-    "ProgrammingKnowledge/Programming/Git/Git diff.md",
     "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129202746.png",
     "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129204349.png",
     "Pasted image 20231129204320.png",
