@@ -13,29 +13,21 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Concepts/Testing/Property Based Testing.md",
+                "file": "ProgrammingKnowledge/IT/Databases/PostgreSql/Container/Postgres Container.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "2dd3cacb124f3136",
+            "id": "30b6da379430ab5f",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129201720.png"
-              }
-            }
-          },
-          {
-            "id": "37ebf039b931867c",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "ProgrammingKnowledge/Programming/Git/CommitMessages.pdf"
+                "file": "ProgrammingKnowledge/IT/Kubernetes/Logging_Monitoring/Logging And Monitoring.md",
+                "mode": "source",
+                "source": false
               }
             }
           },
@@ -62,7 +54,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -136,7 +128,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Git/CommitMessages.pdf",
+                "file": "ProgrammingKnowledge/IT/Kubernetes/Logging_Monitoring/Logging And Monitoring.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -153,7 +145,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Git/CommitMessages.pdf",
+                "file": "ProgrammingKnowledge/IT/Kubernetes/Logging_Monitoring/Logging And Monitoring.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -176,7 +168,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProgrammingKnowledge/Programming/Git/CommitMessages.pdf"
+                "file": "ProgrammingKnowledge/IT/Kubernetes/Logging_Monitoring/Logging And Monitoring.md"
               }
             }
           },
@@ -206,8 +198,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "37ebf039b931867c",
+  "active": "30b6da379430ab5f",
   "lastOpenFiles": [
+    "ProgrammingKnowledge/IT/Kubernetes/Logging_Monitoring/Pasted image 20240806212456.png",
+    "ProgrammingKnowledge/IT/Kubernetes/Logging_Monitoring/Logging And Monitoring.md",
+    "ProgrammingKnowledge/IT/Kubernetes/Scheduling/Static Pods.md",
+    "ProgrammingKnowledge/IT/Kubernetes/Logging_Monitoring",
+    "ProgrammingKnowledge/IT/Kubernetes/Scheduling",
+    "ProgrammingKnowledge/Programming/Concepts/Testing/Property Based Testing.md",
+    "ProgrammingKnowledge/IT/Databases/PostgreSql/Container/Postgres Container.md",
+    "ProgrammingKnowledge/IT/Databases/PostgreSql/Container",
     "ProgrammingKnowledge/Programming/Git/Git commit messages.md",
     "ProgrammingKnowledge/IT/Kubernetes/Health Checks.md",
     "ProgrammingKnowledge/IT/Docker/Problems.md",
@@ -235,23 +235,15 @@
     "ProgrammingKnowledge/IT/Docker/Docker Compose.md",
     "ProgrammingKnowledge/IT/Docker/Container.md",
     "ProgrammingKnowledge/IT/Docker/DNS.md",
-    "ProgrammingKnowledge/IT/Docker/Dockerfile.md",
-    "ProgrammingKnowledge/IT/Docker/Images.md",
-    "ProgrammingKnowledge/IT/Databases/PostgreSql/Allow connections from remote host.md",
-    "ProgrammingKnowledge/Programming/Git/Git history/Git history.md",
     "ProgrammingKnowledge/IT/Docker",
-    "ProgrammingKnowledge/Programming/Git/Reflog/Reflog.md",
     "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129202746.png",
     "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129204349.png",
     "Pasted image 20231129204320.png",
     "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129204631.png",
     "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129204238.png",
-    "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129203638.png",
     "ProgrammingKnowledge/Programming/Git/Git history",
     "ProgrammingKnowledge/Programming/Git/Git fundamentals",
     "ProgrammingKnowledge/Programming/Git/Git branching",
-    "ProgrammingKnowledge/Programming/Git/Reflog",
-    "ProgrammingKnowledge/Programming/Git/Git reset",
-    "ProgrammingKnowledge/Programming/Git"
+    "ProgrammingKnowledge/Programming/Git/Reflog"
   ]
 }
