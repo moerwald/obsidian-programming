@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Kubernetes/CoreConcepts/Namespaces.md",
+                "file": "IT/Ansible/set_fact vs register.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Kubernetes/CoreConcepts/Namespaces.md",
+                "file": "IT/Ansible/set_fact vs register.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Kubernetes/CoreConcepts/Namespaces.md"
+                "file": "IT/Ansible/set_fact vs register.md"
               }
             }
           },
@@ -192,6 +192,10 @@
   },
   "active": "822fc9beef9b884b",
   "lastOpenFiles": [
+    "IT/Kubernetes/CoreConcepts/Services.md",
+    "IT/Ansible/set_fact vs register.md",
+    "IT/Ansible",
+    "IT/Kubernetes/CoreConcepts/Namespaces.md",
     "IT/Kubernetes/Vor- und Nachteile.md",
     "IT/Kubernetes/Scheduling/Static Pods.md",
     "IT/Kubernetes/Scheduling",
@@ -205,8 +209,6 @@
     "IT/Databases/PostgreSql/Container/Postgres Container.md",
     "IT/Databases/PostgreSql/Container",
     "IT/Kubernetes/CoreConcepts/Pasted image 20240724100026.png",
-    "IT/Kubernetes/CoreConcepts/Namespaces.md",
-    "IT/Kubernetes/CoreConcepts/Services.md",
     "IT/Kubernetes/CoreConcepts/Namespaces",
     "IT/Kubernetes/ClusterIP.md",
     "IT/Databases/PostgreSql/Logging activate.md",
@@ -229,14 +231,12 @@
     "IT/Kubernetes/Pasted image 20240410221036.png",
     "IT/Kubernetes/Pasted image 20240410215222.png",
     "IT/Kubernetes/Pasted image 20240408222909.png",
-    "IT/Kubernetes/kubectl apply, yaml formats.md",
     "IT/Kubernetes/components-of-kubernetes.svg",
     "IT/Kubernetes",
     "Programming/Git/Git history/Pasted image 20231129204631.png",
     "Programming/Git/Git history/Pasted image 20231129204349.png",
     "Programming/Git/Git history/Pasted image 20231129204238.png",
     "Programming/Git/Git history/Pasted image 20231129203638.png",
-    "Programming/Git/Git history",
-    "Programming/Git/Git fundamentals"
+    "Programming/Git/Git history"
   ]
 }
