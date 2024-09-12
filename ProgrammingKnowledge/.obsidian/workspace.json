@@ -57,7 +57,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Ansible/set_fact vs register.md",
+                "file": "Programming/Tools/IDE/VisualStudio/DebuggingExternalSourceCode.md",
                 "mode": "source",
                 "source": false
               }
@@ -130,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Ansible/set_fact vs register.md",
+                "file": "Programming/Tools/IDE/VisualStudio/DebuggingExternalSourceCode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -158,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Ansible/set_fact vs register.md"
+                "file": "Programming/Tools/IDE/VisualStudio/DebuggingExternalSourceCode.md"
               }
             }
           },
@@ -192,8 +192,12 @@
   },
   "active": "822fc9beef9b884b",
   "lastOpenFiles": [
-    "IT/Kubernetes/CoreConcepts/Services.md",
     "IT/Ansible/set_fact vs register.md",
+    "Programming/Tools/IDE/VisualStudio/DebuggingExternalSourceCode.md",
+    "Programming/Tools/IDE/VisualStudio",
+    "Programming/Tools/IDE",
+    "Programming/Tools",
+    "IT/Kubernetes/CoreConcepts/Services.md",
     "IT/Ansible",
     "IT/Kubernetes/CoreConcepts/Namespaces.md",
     "IT/Kubernetes/Vor- und Nachteile.md",
@@ -226,17 +230,13 @@
     "Programming/Git/Git show.md",
     "Programming/Git/Git branching/Git branching.md",
     "Programming/Git/Git fundamentals/Git fundamentals.md",
-    "IT/Kubernetes/Resouces/ConfigMap.md",
-    "IT/Kubernetes/Resouces",
     "IT/Kubernetes/Pasted image 20240410221036.png",
     "IT/Kubernetes/Pasted image 20240410215222.png",
     "IT/Kubernetes/Pasted image 20240408222909.png",
     "IT/Kubernetes/components-of-kubernetes.svg",
-    "IT/Kubernetes",
     "Programming/Git/Git history/Pasted image 20231129204631.png",
     "Programming/Git/Git history/Pasted image 20231129204349.png",
     "Programming/Git/Git history/Pasted image 20231129204238.png",
-    "Programming/Git/Git history/Pasted image 20231129203638.png",
-    "Programming/Git/Git history"
+    "Programming/Git/Git history/Pasted image 20231129203638.png"
   ]
 }
