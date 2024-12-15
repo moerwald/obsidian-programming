@@ -45,14 +45,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Databases/PostgreSql/Allow connections from remote host.md",
+                "file": "Programming/Git/Git commit categories.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "822fc9beef9b884b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Programming/Tools/IDE/VisualStudio/DebuggingExternalSourceCode.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -118,7 +130,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Databases/PostgreSql/Allow connections from remote host.md",
+                "file": "Programming/Tools/IDE/VisualStudio/DebuggingExternalSourceCode.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +158,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Databases/PostgreSql/Allow connections from remote host.md"
+                "file": "Programming/Tools/IDE/VisualStudio/DebuggingExternalSourceCode.md"
               }
             }
           },
@@ -178,53 +190,53 @@
       "templates:Insert template": false
     }
   },
-  "active": "f5c8f2ca62ca2036",
+  "active": "822fc9beef9b884b",
   "lastOpenFiles": [
+    "IT/Ansible/set_fact vs register.md",
+    "Programming/Tools/IDE/VisualStudio/DebuggingExternalSourceCode.md",
+    "Programming/Tools/IDE/VisualStudio",
+    "Programming/Tools/IDE",
+    "Programming/Tools",
+    "IT/Kubernetes/CoreConcepts/Services.md",
+    "IT/Ansible",
+    "IT/Kubernetes/CoreConcepts/Namespaces.md",
+    "IT/Kubernetes/Vor- und Nachteile.md",
+    "IT/Kubernetes/Scheduling/Static Pods.md",
+    "IT/Kubernetes/Scheduling",
+    "IT/Kubernetes/Rolling Update.md",
+    "IT/Kubernetes/Logging_Monitoring/Pasted image 20240806212456.png",
+    "IT/Kubernetes/Logging_Monitoring/Logging And Monitoring.md",
+    "IT/Kubernetes/Logging_Monitoring",
+    "IT/Kubernetes/Health Checks.md",
+    "IT/Kubernetes/Begriffe.md",
+    "IT/Docker/Problems.md",
+    "IT/Databases/PostgreSql/Container/Postgres Container.md",
+    "IT/Databases/PostgreSql/Container",
+    "IT/Kubernetes/CoreConcepts/Pasted image 20240724100026.png",
+    "IT/Kubernetes/CoreConcepts/Namespaces",
+    "IT/Kubernetes/ClusterIP.md",
     "IT/Databases/PostgreSql/Logging activate.md",
+    "IT/Kubernetes/CoreConcepts",
     "IT/Databases/PostgreSql/Allow connections from remote host.md",
-    "IT/Databases/PostgreSql/Partitioning.md",
     "IT/Databases/PostgreSql/pgSql/pgSql.md",
+    "Programming/Git/Git history/Git history.md",
+    "Programming/Git/CommitMessages.pdf",
+    "Programming/Git/Git add partial parts of file.md",
+    "Programming/Git/Git alias.md",
+    "Programming/Git/Git commit.md",
+    "Programming/Git/Git commit categories.md",
+    "Programming/Git/Git commit messages.md",
+    "Programming/Git/Git diff.md",
     "Programming/Git/Git show.md",
     "Programming/Git/Git branching/Git branching.md",
-    "Programming/Concepts/Refactoring/Lift Up Condition.md",
-    "Programming/Concepts/Object Oriented Programming/Micro Objects.md",
-    "Programming/Concepts/Design/Event Sourcing.md",
-    "Programming/Git/Git reset/Git reset.md",
     "Programming/Git/Git fundamentals/Git fundamentals.md",
-    "Programming/Git/Git stash, keep index.md",
-    "Programming/Git/Git diff.md",
-    "Programming/Git/Git commit.md",
-    "Programming/Git/Git alias.md",
-    "Programming/Git/Git add partial parts of file.md",
-    "Programming/Git/Git fundamentals/Pasted image 20231129090404.png",
-    "Pasted image 20231129090257.png",
-    "Programming/Git/Git fundamentals/Pasted image 20231129090147.png",
-    "Programming/Git/Git branching/Pasted image 20231129083712.png",
-    "Programming/Git/Git fundamentals",
-    "Programming/Git/Git branching/Pasted image 20231129084645.png",
-    "Programming/Git/Git branching/Pasted image 20231129084627.png",
-    "Programming/Git/Git branching/Pasted image 20231129084251.png",
-    "Programming/Git/Git branching/Pasted image 20231129083856.png",
-    "Programming/Git/Git branching/Pasted image 20231129082939.png",
-    "Programming/Git/Git branching/Pasted image 20231129083553.png",
-    "Troubleshooting/Möglichkeiten ein Problem zu lösen.md",
-    "Programming/Git/Git branching",
-    "Programming/Git/Reflog/Reflog.md",
-    "Programming/Git/Reflog",
-    "Programming/Git/Git reset",
-    "Programming/Git",
-    "Programming/Languages/MsBuild/Gute Links.md",
-    "Programming/Languages/MsBuild/Bin Log.md",
-    "Programming/Languages/MsBuild/Get performance summary.md",
-    "Programming/Languages/MsBuild/Get preprocessed project file.md",
-    "Programming/Languages/CSharp/NuGet/Zentrale NuGet Paketverwaltung.md",
-    "Programming/Languages/MsBuild",
-    "Programming/Languages/CSharp/MSBuild/Runtime IDs.md",
-    "Programming/Languages/CSharp/NuGet",
-    "IT/Databases/Database Fundamentals/Isolation.md",
-    "Programming/Languages/CSharp/Libraries/FluentValidation.md",
-    "IT/Databases/Database Fundamentals",
-    "IT/Security",
-    "Programming/Languages/Protobuf"
+    "IT/Kubernetes/Pasted image 20240410221036.png",
+    "IT/Kubernetes/Pasted image 20240410215222.png",
+    "IT/Kubernetes/Pasted image 20240408222909.png",
+    "IT/Kubernetes/components-of-kubernetes.svg",
+    "Programming/Git/Git history/Pasted image 20231129204631.png",
+    "Programming/Git/Git history/Pasted image 20231129204349.png",
+    "Programming/Git/Git history/Pasted image 20231129204238.png",
+    "Programming/Git/Git history/Pasted image 20231129203638.png"
   ]
 }
