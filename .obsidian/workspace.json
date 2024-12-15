@@ -4,57 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "f3aee03b3d086d7f",
+        "id": "3fff831ed97de958",
         "type": "tabs",
         "children": [
           {
-            "id": "dfe39ad7fc5765fb",
+            "id": "d5be4e5a5100ab8c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ProgrammingKnowledge/IT/Databases/PostgreSql/Container/Postgres Container.md",
+                "file": "ProgrammingKnowledge/IT/Kubernetes/Security/The Ultimate Guide to Kubernetes Security Best Practices.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "30b6da379430ab5f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ProgrammingKnowledge/IT/Kubernetes/Logging_Monitoring/Logging And Monitoring.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "117d36aec49eccad",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ProgrammingKnowledge/IT/Security/OAuth 2.0.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "138d016b70684018",
-            "type": "leaf",
-            "state": {
-              "type": "release-notes",
-              "state": {
-                "currentVersion": "1.5.12"
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -128,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "ProgrammingKnowledge/IT/Kubernetes/Logging_Monitoring/Logging And Monitoring.md",
+                "file": "ProgrammingKnowledge/IT/Kubernetes/Security/The Ultimate Guide to Kubernetes Security Best Practices.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -145,7 +110,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "ProgrammingKnowledge/IT/Kubernetes/Logging_Monitoring/Logging And Monitoring.md",
+                "file": "ProgrammingKnowledge/IT/Kubernetes/Security/The Ultimate Guide to Kubernetes Security Best Practices.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -168,7 +133,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "ProgrammingKnowledge/IT/Kubernetes/Logging_Monitoring/Logging And Monitoring.md"
+                "file": "ProgrammingKnowledge/IT/Kubernetes/Security/The Ultimate Guide to Kubernetes Security Best Practices.md"
               }
             }
           },
@@ -198,15 +163,33 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "30b6da379430ab5f",
+  "active": "d5be4e5a5100ab8c",
   "lastOpenFiles": [
-    "ProgrammingKnowledge/IT/Kubernetes/Logging_Monitoring/Pasted image 20240806212456.png",
+    "ProgrammingKnowledge/IT/Kubernetes/Security/The Ultimate Guide to Kubernetes Security Best Practices.md",
+    "ProgrammingKnowledge/IT/Kubernetes/Security/Certificates on K8S.md",
+    "ProgrammingKnowledge/IT/Kubernetes/Security/Vault/Basics of Vault.md",
+    "ProgrammingKnowledge/IT/Kubernetes/Untitled",
+    "ProgrammingKnowledge/IT/Kubernetes/Security/Vault",
+    "ProgrammingKnowledge/IT/Databases/PostgreSql/Allow connections from remote host.md",
+    "ProgrammingKnowledge/IT/Kubernetes/Security",
+    "ProgrammingKnowledge/IT/Databases/PostgreSql/pgSql/pgSql.md",
+    "ProgrammingKnowledge/IT/Kubernetes/LoadBalancer/MetalLB.md",
+    "ProgrammingKnowledge/Programming/Languages/CSharp/Security/Password Hashing.md",
+    "ProgrammingKnowledge/IT/Kubernetes/LoadBalancer",
+    "ProgrammingKnowledge/IT/Kubernetes/Application_Lifecycle_Management/Environment Variables and Configmaps.md",
+    "ProgrammingKnowledge/IT/Kubernetes/Application_Lifecycle_Management/Updates of PODs.md",
+    "ProgrammingKnowledge/IT/Kubernetes/Application_Lifecycle_Management/Pasted image 20240806213623.png",
+    "ProgrammingKnowledge/IT/Kubernetes/Application_Lifecycle_Management/Pasted image 20240806214836.png",
+    "ProgrammingKnowledge/IT/Security/OAuth 2.0.md",
+    "ProgrammingKnowledge/Programming/Languages/CSharp/UsefulExtension_Helpers_Patterns/Make Task canceable.md",
+    "ProgrammingKnowledge/IT/Databases/PostgreSql/Container/Postgres Container.md",
     "ProgrammingKnowledge/IT/Kubernetes/Logging_Monitoring/Logging And Monitoring.md",
+    "ProgrammingKnowledge/IT/Kubernetes/Application_Lifecycle_Management",
+    "ProgrammingKnowledge/IT/Kubernetes/Logging_Monitoring/Pasted image 20240806212456.png",
     "ProgrammingKnowledge/IT/Kubernetes/Scheduling/Static Pods.md",
     "ProgrammingKnowledge/IT/Kubernetes/Logging_Monitoring",
     "ProgrammingKnowledge/IT/Kubernetes/Scheduling",
     "ProgrammingKnowledge/Programming/Concepts/Testing/Property Based Testing.md",
-    "ProgrammingKnowledge/IT/Databases/PostgreSql/Container/Postgres Container.md",
     "ProgrammingKnowledge/IT/Databases/PostgreSql/Container",
     "ProgrammingKnowledge/Programming/Git/Git commit messages.md",
     "ProgrammingKnowledge/IT/Kubernetes/Health Checks.md",
@@ -223,27 +206,10 @@
     "ProgrammingKnowledge/IT/Kubernetes/Pasted image 20240410215222.png",
     "ProgrammingKnowledge/IT/Kubernetes/Pasted image 20240408222909.png",
     "Untitled.md",
-    "ProgrammingKnowledge/Programming/Git/Git commit categories.md",
-    "ProgrammingKnowledge/IT/Docker/Volumes.md",
     "ProgrammingKnowledge/IT/Kubernetes",
-    "ProgrammingKnowledge/IT/Docker/Networking.md",
-    "ProgrammingKnowledge/Programming/Git/Git stash, keep index.md",
-    "ProgrammingKnowledge/IT/Cloud/Azure/Compute Services/Compute Services.md",
     "ProgrammingKnowledge/Programming/Git/CommitMessages.pdf",
-    "ProgrammingKnowledge/Programming/Git/Git commit.md",
-    "ProgrammingKnowledge/IT/Docker/Docker Github Repo Udemy Kurs.md",
-    "ProgrammingKnowledge/IT/Docker/Docker Compose.md",
-    "ProgrammingKnowledge/IT/Docker/Container.md",
-    "ProgrammingKnowledge/IT/Docker/DNS.md",
-    "ProgrammingKnowledge/IT/Docker",
     "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129202746.png",
     "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129204349.png",
-    "Pasted image 20231129204320.png",
-    "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129204631.png",
-    "ProgrammingKnowledge/Programming/Git/Git history/Pasted image 20231129204238.png",
-    "ProgrammingKnowledge/Programming/Git/Git history",
-    "ProgrammingKnowledge/Programming/Git/Git fundamentals",
-    "ProgrammingKnowledge/Programming/Git/Git branching",
-    "ProgrammingKnowledge/Programming/Git/Reflog"
+    "Pasted image 20231129204320.png"
   ]
 }
