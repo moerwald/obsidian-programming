@@ -16,7 +16,9 @@
                 "file": "IT/Databases/PostgreSql/Logging activate.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Logging activate"
             }
           },
           {
@@ -26,7 +28,9 @@
               "type": "image",
               "state": {
                 "file": "Programming/Git/Git branching/Pasted image 20231129082510.png"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20231129082510"
             }
           },
           {
@@ -36,7 +40,9 @@
               "type": "image",
               "state": {
                 "file": "Programming/Git/Git branching/Pasted image 20231129082607.png"
-              }
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20231129082607"
             }
           },
           {
@@ -48,7 +54,9 @@
                 "file": "Programming/Git/Git commit categories.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Git commit categories"
             }
           },
           {
@@ -57,10 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Programming/Tools/IDE/VisualStudio/DebuggingExternalSourceCode.md",
+                "file": "IT/Kubernetes/CoreConcepts/Services.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "icon": "lucide-file",
+              "title": "Services"
             }
           }
         ],
@@ -84,7 +94,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           },
           {
@@ -99,7 +111,9 @@
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical"
-              }
+              },
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -107,7 +121,9 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {}
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
             }
           }
         ]
@@ -130,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Programming/Tools/IDE/VisualStudio/DebuggingExternalSourceCode.md",
+                "file": "IT/Kubernetes/CoreConcepts/Services.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +154,9 @@
                 "searchQuery": "",
                 "backlinkCollapsed": false,
                 "unlinkedCollapsed": true
-              }
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Services"
             }
           },
           {
@@ -149,7 +167,9 @@
               "state": {
                 "sortOrder": "frequency",
                 "useHierarchy": true
-              }
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
             }
           },
           {
@@ -158,8 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Programming/Tools/IDE/VisualStudio/DebuggingExternalSourceCode.md"
-              }
+                "file": "IT/Kubernetes/CoreConcepts/Services.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Services"
             }
           },
           {
@@ -171,7 +193,9 @@
                 "sortOrder": "frequency",
                 "showSearch": false,
                 "searchQuery": ""
-              }
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
             }
           }
         ]
@@ -192,8 +216,25 @@
   },
   "active": "822fc9beef9b884b",
   "lastOpenFiles": [
-    "IT/Ansible/set_fact vs register.md",
+    "Programming/Languages/CSharp/Security/Password Hashing.md",
+    "IT/Kubernetes/Security/Vault/Basics of Vault.md",
+    "IT/Kubernetes/Security/Vault",
+    "IT/Kubernetes/Security/The Ultimate Guide to Kubernetes Security Best Practices.md",
+    "IT/Kubernetes/Security/Certificates on K8S.md",
+    "IT/Kubernetes/Security",
+    "IT/Kubernetes/LoadBalancer/MetalLB.md",
+    "IT/Kubernetes/LoadBalancer",
+    "IT/Kubernetes/Application_Lifecycle_Management/Updates of PODs.md",
+    "IT/Kubernetes/Application_Lifecycle_Management/Pasted image 20240806214836.png",
+    "IT/Kubernetes/Application_Lifecycle_Management/Pasted image 20240806213623.png",
+    "IT/Kubernetes/Application_Lifecycle_Management/Environment Variables and Configmaps.md",
+    "IT/Kubernetes/Application_Lifecycle_Management",
+    "IT/Kubernetes/Resouces/ConfigMap.md",
+    "IT/Kubernetes/Logging_Monitoring/Logging And Monitoring.md",
+    "Programming/Languages/CSharp/MSBuild/Ressources.md",
+    "Programming/Languages/CSharp/MSBuild/Runtime IDs.md",
     "Programming/Tools/IDE/VisualStudio/DebuggingExternalSourceCode.md",
+    "IT/Ansible/set_fact vs register.md",
     "Programming/Tools/IDE/VisualStudio",
     "Programming/Tools/IDE",
     "Programming/Tools",
@@ -205,38 +246,21 @@
     "IT/Kubernetes/Scheduling",
     "IT/Kubernetes/Rolling Update.md",
     "IT/Kubernetes/Logging_Monitoring/Pasted image 20240806212456.png",
-    "IT/Kubernetes/Logging_Monitoring/Logging And Monitoring.md",
     "IT/Kubernetes/Logging_Monitoring",
     "IT/Kubernetes/Health Checks.md",
     "IT/Kubernetes/Begriffe.md",
     "IT/Docker/Problems.md",
     "IT/Databases/PostgreSql/Container/Postgres Container.md",
-    "IT/Databases/PostgreSql/Container",
     "IT/Kubernetes/CoreConcepts/Pasted image 20240724100026.png",
-    "IT/Kubernetes/CoreConcepts/Namespaces",
     "IT/Kubernetes/ClusterIP.md",
     "IT/Databases/PostgreSql/Logging activate.md",
-    "IT/Kubernetes/CoreConcepts",
     "IT/Databases/PostgreSql/Allow connections from remote host.md",
     "IT/Databases/PostgreSql/pgSql/pgSql.md",
-    "Programming/Git/Git history/Git history.md",
-    "Programming/Git/CommitMessages.pdf",
-    "Programming/Git/Git add partial parts of file.md",
-    "Programming/Git/Git alias.md",
-    "Programming/Git/Git commit.md",
-    "Programming/Git/Git commit categories.md",
-    "Programming/Git/Git commit messages.md",
-    "Programming/Git/Git diff.md",
-    "Programming/Git/Git show.md",
-    "Programming/Git/Git branching/Git branching.md",
-    "Programming/Git/Git fundamentals/Git fundamentals.md",
     "IT/Kubernetes/Pasted image 20240410221036.png",
     "IT/Kubernetes/Pasted image 20240410215222.png",
     "IT/Kubernetes/Pasted image 20240408222909.png",
     "IT/Kubernetes/components-of-kubernetes.svg",
     "Programming/Git/Git history/Pasted image 20231129204631.png",
-    "Programming/Git/Git history/Pasted image 20231129204349.png",
-    "Programming/Git/Git history/Pasted image 20231129204238.png",
-    "Programming/Git/Git history/Pasted image 20231129203638.png"
+    "Programming/Git/Git history/Pasted image 20231129204349.png"
   ]
 }
