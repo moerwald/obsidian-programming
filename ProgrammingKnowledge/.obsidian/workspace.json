@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "IT/Kubernetes/CoreConcepts/Services.md",
+                "file": "IT/Kubernetes/Tutorials/Security/Secret from certificate.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Services"
+              "title": "Secret from certificate"
             }
           }
         ],
@@ -146,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IT/Kubernetes/CoreConcepts/Services.md",
+                "file": "IT/Kubernetes/Tutorials/Security/Secret from certificate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Services"
+              "title": "Backlinks for Secret from certificate"
             }
           },
           {
@@ -178,10 +178,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IT/Kubernetes/CoreConcepts/Services.md"
+                "file": "IT/Kubernetes/Security/The Ultimate Guide to Kubernetes Security Best Practices.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Services"
+              "title": "Outline of The Ultimate Guide to Kubernetes Security Best Practices"
             }
           },
           {
@@ -216,10 +216,16 @@
   },
   "active": "822fc9beef9b884b",
   "lastOpenFiles": [
+    "IT/Talos/Links.md",
+    "IT/Kubernetes/Tutorials/Security/Secret from certificate.md",
+    "IT/Kubernetes/Tutorials/Security",
+    "IT/Kubernetes/Tutorials",
+    "IT/Kubernetes/Security/The Ultimate Guide to Kubernetes Security Best Practices.md",
+    "IT/Talos",
+    "IT/Kubernetes/CoreConcepts/Services.md",
     "Programming/Languages/CSharp/Security/Password Hashing.md",
     "IT/Kubernetes/Security/Vault/Basics of Vault.md",
     "IT/Kubernetes/Security/Vault",
-    "IT/Kubernetes/Security/The Ultimate Guide to Kubernetes Security Best Practices.md",
     "IT/Kubernetes/Security/Certificates on K8S.md",
     "IT/Kubernetes/Security",
     "IT/Kubernetes/LoadBalancer/MetalLB.md",
@@ -238,15 +244,11 @@
     "Programming/Tools/IDE/VisualStudio",
     "Programming/Tools/IDE",
     "Programming/Tools",
-    "IT/Kubernetes/CoreConcepts/Services.md",
-    "IT/Ansible",
     "IT/Kubernetes/CoreConcepts/Namespaces.md",
     "IT/Kubernetes/Vor- und Nachteile.md",
     "IT/Kubernetes/Scheduling/Static Pods.md",
-    "IT/Kubernetes/Scheduling",
     "IT/Kubernetes/Rolling Update.md",
     "IT/Kubernetes/Logging_Monitoring/Pasted image 20240806212456.png",
-    "IT/Kubernetes/Logging_Monitoring",
     "IT/Kubernetes/Health Checks.md",
     "IT/Kubernetes/Begriffe.md",
     "IT/Docker/Problems.md",
@@ -254,8 +256,6 @@
     "IT/Kubernetes/CoreConcepts/Pasted image 20240724100026.png",
     "IT/Kubernetes/ClusterIP.md",
     "IT/Databases/PostgreSql/Logging activate.md",
-    "IT/Databases/PostgreSql/Allow connections from remote host.md",
-    "IT/Databases/PostgreSql/pgSql/pgSql.md",
     "IT/Kubernetes/Pasted image 20240410221036.png",
     "IT/Kubernetes/Pasted image 20240410215222.png",
     "IT/Kubernetes/Pasted image 20240408222909.png",
