@@ -93,7 +93,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "alphabetical",
+                "autoReveal": false
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -105,7 +106,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "postgres",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -126,7 +127,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -216,6 +218,9 @@
   },
   "active": "822fc9beef9b884b",
   "lastOpenFiles": [
+    "IT/Databases/PostgreSql/Logging activate.md",
+    "IT/Kubernetes/Security/Certificates/Create PFX Certificate.md",
+    "IT/Kubernetes/Security/Certificates",
     "IT/Talos/Links.md",
     "IT/Kubernetes/Tutorials/Security/Secret from certificate.md",
     "IT/Kubernetes/Tutorials/Security",
@@ -243,7 +248,6 @@
     "IT/Ansible/set_fact vs register.md",
     "Programming/Tools/IDE/VisualStudio",
     "Programming/Tools/IDE",
-    "Programming/Tools",
     "IT/Kubernetes/CoreConcepts/Namespaces.md",
     "IT/Kubernetes/Vor- und Nachteile.md",
     "IT/Kubernetes/Scheduling/Static Pods.md",
@@ -254,8 +258,6 @@
     "IT/Docker/Problems.md",
     "IT/Databases/PostgreSql/Container/Postgres Container.md",
     "IT/Kubernetes/CoreConcepts/Pasted image 20240724100026.png",
-    "IT/Kubernetes/ClusterIP.md",
-    "IT/Databases/PostgreSql/Logging activate.md",
     "IT/Kubernetes/Pasted image 20240410221036.png",
     "IT/Kubernetes/Pasted image 20240410215222.png",
     "IT/Kubernetes/Pasted image 20240408222909.png",
