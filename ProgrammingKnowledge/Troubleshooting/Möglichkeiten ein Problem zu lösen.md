@@ -15,4 +15,4 @@ Gerade bei Code kann eine Vereinfachung dazu beitragen ein Problem zu lösen. Mi
 
 Wenn man nicht weiterkommt hiflt ein physischer Break, vom Tisch aufstehen, sich bewegen. Hie und da kommt dann eine helfende Idee von alleine. Sollte dies nicht passieren hilft es oft das Problem jemand anderen zu beschreiben, sei es in Natura oder in Form eine Frage in einem Forum.
 
-#TroubelShooting
+#TroubleShooting
